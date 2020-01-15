@@ -10,14 +10,14 @@
     "dc:identifier": "https://sails.clld.org/",
     "dc:license": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
     "dc:source": "sources.bib",
-    "dc:title": "The South American Indigenous Language Structures",
+    "dc:title": "South American Indigenous Language Structures (SAILS)",
     "dcat:accessURL": "https://github.com/cldf-datasets/sails",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/sails",
-            "dc:created": "a36177e"
+            "dc:created": "9f5de61"
         },
         {
             "rdf:type": "prov:Entity",

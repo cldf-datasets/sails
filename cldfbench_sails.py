@@ -4,13 +4,33 @@ import itertools
 import collections
 
 from cldfbench import Dataset as BaseDataset
-from cldfbench import CLDFSpec
+from cldfbench import CLDFSpec, Metadata
 from pycldf import Source
+
+
+class MetadataWithTravis(Metadata):
+    def markdown(self):
+        lines, title_found = [], False
+        for line in super().markdown().split('\n'):
+            lines.append(line)
+            if line.startswith('# ') and not title_found:
+                title_found = True
+                lines.extend([
+                    '',
+                    "[![Build Status](https://travis-ci.org/cldf-datasets/sails.svg?branch=master)]"
+                    "(https://travis-ci.org/cldf-datasets/sails)"
+                ])
+        lines.extend([
+            '',
+            pathlib.Path(__file__).parent.joinpath('NOTES.md').read_text(encoding='utf8'),
+        ])
+        return '\n'.join(lines)
 
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "sails"
+    metadata_cls = MetadataWithTravis
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)

@@ -1,4 +1,6 @@
-# The South American Indigenous Language Structures
+# South American Indigenous Language Structures (SAILS)
+
+[![Build Status](https://travis-ci.org/cldf-datasets/sails.svg?branch=master)](https://travis-ci.org/cldf-datasets/sails)
 
 Cite the source dataset as
 
@@ -7,3 +9,8 @@ Cite the source dataset as
 This dataset is licensed under a cc-by-nc-nd-2.0 license
 
 Available online at https://sails.clld.org/
+
+
+The [CLDF StructureDataset dataset](cldf/) contains the subset of data available at https://sails.clld.org
+which was published 2014. The construction-based data added in 2016 is **not**
+included.

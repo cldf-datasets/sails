@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/sails",
-            "dc:created": "9f5de61"
+            "dc:created": "c9ed453"
         },
         {
             "rdf:type": "prov:Entity",
@@ -330,7 +330,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 8,
+            "dc:extent": 7,
             "tableSchema": {
                 "columns": [
                     {

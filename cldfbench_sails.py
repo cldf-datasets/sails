@@ -66,6 +66,8 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_sources(*list(self.itersources(pk2id)))
         for row in self.read('designer').values():
             id_ = re.search('\(([A-Z]+)\)', row['domain']).groups()[0]
+            if id_ == 'SUB':
+                continue
             args.writer.objects['contributions.csv'].append({
                 'ID': id_,
                 'Name': row['domain'],

@@ -1,0 +1,25 @@
+id,name,contribution
+npnominaltam,NP-Nominal TAM,NP
+npindefinitepronouns,NP-Indefinite pronouns,NP
+icstablecontent,IC-stable-content,IC
+npwordordernounphrase,NP-Word order (Noun Phrase),NP
+tenseaspectmoodevidentiality,Tense-Aspect-Mood-Evidentiality,TAME
+icunstablecontent,IC-unstable-content,IC
+npadpositions,NP-Adpositions,NP
+npnominalization,NP-Nominalization,NP
+foothillsspecial,Foothills-special,FFQ
+argumentmarking,Argument Marking,ARGEX
+npattributivepossession,NP-Attributive possession,NP
+npgrammaticalexpressionofquantitymarkedonthenoun,NP-Grammatical expression of quantity (marked on the noun),NP
+npcopula,NP-Copula,NP
+npwordordermainclause,NP-Word order (main clause),NP
+icstabletemplate,IC-stable-template,IC
+nparticlesdemonstratives,"NP-Articles, demonstratives",NP
+arawakanspecific,Arawakan-specific,ARW
+npnumerals,NP-Numerals,NP
+npnouncategorizationdevice,NP-Noun categorization device,NP
+icunstabletemplate,IC-unstable-template,IC
+npagreementwithinthenp,NP-Agreement within the NP,NP
+npfreepersonalpronouns,NP-Free personal pronouns,NP
+andeanspecific,Andean-specific,AND
+npadjectivespropertywords,NP-Adjectives/property words,NP

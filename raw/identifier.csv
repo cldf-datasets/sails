@@ -1,0 +1,330 @@
+pk,jsondata,name,description,markup_description,id,type,lang
+1,{},ito,Itonama,,ito,iso639-3,en
+3,{},qvn,North Junín Quechua,,qvn,iso639-3,en
+5,{},bvv,Baniva,,bvv,iso639-3,en
+7,{},kbc,Kadiwéu,,kbc,iso639-3,en
+9,{},qvc,Cajamarca Quechua,,qvc,iso639-3,en
+11,{},qvp,Pacaraos Quechua,,qvp,iso639-3,en
+13,{},qvi,Imbabura Highland Quichua,,qvi,iso639-3,en
+15,{},yvt,Yavitero,,yvt,iso639-3,en
+17,{},gta,Guató,,gta,iso639-3,en
+19,{},rgr,Resígaro,,rgr,iso639-3,en
+21,{},jic,Tol,,jic,iso639-3,en
+23,{},lkd,Lakondê,,lkd,iso639-3,en
+25,{},jiv,Shuar,,jiv,iso639-3,en
+27,{},skf,Sakirabia,,skf,iso639-3,en
+29,{},cub,Cubeo,,cub,iso639-3,en
+31,{},cuk,San Blas Kuna,,cuk,iso639-3,en
+33,{},cuj,Mashco Piro,,cuj,iso639-3,en
+35,{},jaa,Jamamadí,,jaa,iso639-3,en
+37,{},ceg,Chamacoco,,ceg,iso639-3,en
+39,{},guc,Wayuu,,guc,iso639-3,en
+41,{},kxo,Kanoê,,kxo,iso639-3,en
+43,{},hix,Hixkaryána,,hix,iso639-3,en
+45,{},ame,Yanesha',,ame,iso639-3,en
+47,{},wba,Warao,,wba,iso639-3,en
+49,{},not,Nomatsiguenga,,not,iso639-3,en
+51,{},amr,Amarakaeri,,amr,iso639-3,en
+53,{},jqr,Jaqaru,,jqr,iso639-3,en
+55,{},eme,Emerillon,,eme,iso639-3,en
+57,{},myu,Mundurukú,,myu,iso639-3,en
+59,{},qxl,Salasaca Highland Quichua,,qxl,iso639-3,en
+61,{},crb,Island Carib,,crb,iso639-3,en
+63,{},iqu,Iquito,,iqu,iso639-3,en
+65,{},shb,Ninam,,shb,iso639-3,en
+67,{},kpc,Curripaco,,kpc,iso639-3,en
+69,{},emp,Northern Emberá,,emp,iso639-3,en
+71,{},pbb,Páez,,pbb,iso639-3,en
+73,{},trr,Taushiro,,trr,iso639-3,en
+75,{},pbh,Panare,,pbh,iso639-3,en
+77,{},teh,Tehuelche,,teh,iso639-3,en
+79,{},arr,Karo (Brazil),,arr,iso639-3,en
+81,{},cap,Chipaya,,cap,iso639-3,en
+83,{},arw,Lokono,,arw,iso639-3,en
+85,{},qus,Santiago del Estero Quichua,,qus,iso639-3,en
+87,{},sey,Secoya,,sey,iso639-3,en
+89,{},rma,Rama,,rma,iso639-3,en
+91,{},arh,Arhuaco,,arh,iso639-3,en
+93,{},ter,Tereno,,ter,iso639-3,en
+95,{},arl,Arabela,,arl,iso639-3,en
+97,{},arn,Mapudungun,,arn,iso639-3,en
+99,{},rey,Reyesano,,rey,iso639-3,en
+101,{},gvo,Gavião Do Jiparaná,,gvo,iso639-3,en
+103,{},quy,Ayacucho Quechua,,quy,iso639-3,en
+105,{},ese,Ese Ejja,,ese,iso639-3,en
+107,{},bae,Baré,,bae,iso639-3,en
+109,{},ycn,Yucuna,,ycn,iso639-3,en
+111,{},qux,Huangascar-Topara-Yauyos Quechua,,qux,iso639-3,en
+113,{},zro,Záparo,,zro,iso639-3,en
+115,{},qvs,San Martín Quechua,,qvs,iso639-3,en
+117,{},cni,Asháninka,,cni,iso639-3,en
+119,{},omc,Mochica,,omc,iso639-3,en
+121,{},qup,Southern Pastaza Quechua,,qup,iso639-3,en
+123,{},plu,Palikúr,,plu,iso639-3,en
+125,{},lec,Leco,,lec,iso639-3,en
+127,{},pui,Puinave,,pui,iso639-3,en
+129,{},quw,Tena Lowland Quichua,,quw,iso639-3,en
+131,{},moc,Mocoví,,moc,iso639-3,en
+133,{},pue,Puelche,,pue,iso639-3,en
+135,{},tur,Turkish,,tur,iso639-3,en
+137,{},quz,Cusco Quechua,,quz,iso639-3,en
+139,{},auc,Waorani,,auc,iso639-3,en
+141,{},plg,Pilagá,,plg,iso639-3,en
+143,{},qub,Huallaga Huánuco Quechua,,qub,iso639-3,en
+145,{},mmh,Mehináku,,mmh,iso639-3,en
+147,{},quh,South Bolivian Quechua,,quh,iso639-3,en
+149,{},aca,Achagua,,aca,iso639-3,en
+151,{},yuz,Yuracaré,,yuz,iso639-3,en
+153,{},yuq,Yuqui,,yuq,iso639-3,en
+155,{},cox,Nanti,,cox,iso639-3,en
+157,{},bor,Bororo,,bor,iso639-3,en
+159,{},qxw,Jauja Wanca Quechua,,qxw,iso639-3,en
+161,{},tri,Trió,,tri,iso639-3,en
+163,{},cod,Cocama-Cocamilla,,cod,iso639-3,en
+165,{},acu,Achuar-Shiwiar,,acu,iso639-3,en
+167,{},cof,Tsafiki,,cof,iso639-3,en
+169,{},boa,Bora,,boa,iso639-3,en
+171,{},unk,Enawené-Nawé,,unk,iso639-3,en
+173,{},con,Cofán,,con,iso639-3,en
+175,{},kwa,Dâw,,kwa,iso639-3,en
+177,{},apy,Apalaí,,apy,iso639-3,en
+179,{},txi,Ikpeng,,txi,iso639-3,en
+181,{},kwi,Awa-Cuaiquer,,kwi,iso639-3,en
+183,{},ona,Selk'nam,,ona,iso639-3,en
+185,{},apu,Apurinã,,apu,iso639-3,en
+187,{},xav,Xavánte,,xav,iso639-3,en
+189,{},rkb,Rikbaktsa,,rkb,iso639-3,en
+191,{},rus,Russian,,rus,iso639-3,en
+193,{},brg,Baure,,brg,iso639-3,en
+195,{},mbp,Malayo,,mbp,iso639-3,en
+197,{},awe,Awetí,,awe,iso639-3,en
+199,{},ayo,Ayoreo,,ayo,iso639-3,en
+201,{},yrl,Nhengatu,,yrl,iso639-3,en
+203,{},shp,Shipibo-Conibo,,shp,iso639-3,en
+205,{},ayc,Southern Aymara,,ayc,iso639-3,en
+207,{},cht,Cholón,,cht,iso639-3,en
+209,{},tob,Toba,,tob,iso639-3,en
+211,{},wau,Waurá,,wau,iso639-3,en
+213,{},yaa,Yaminahua,,yaa,iso639-3,en
+215,{},wap,Wapishana,,wap,iso639-3,en
+217,{},kgp,Kaingang,,kgp,iso639-3,en
+219,{},ram,Canela,,ram,iso639-3,en
+221,{},mcf,Matsés,,mcf,iso639-3,en
+223,{},gym,Ngäbere,,gym,iso639-3,en
+225,{},mcb,Machiguenga,,mcb,iso639-3,en
+227,{},mca,Maca,,mca,iso639-3,en
+229,{},jur,Jurúna,,jur,iso639-3,en
+231,{},pnk,Paunaca,,pnk,iso639-3,en
+232,{},knm,Katukína-Kanamarí,,knm,iso639-3,en
+234,{},gae,Guarequena,,gae,iso639-3,en
+236,{},tfr,Teribe,,tfr,iso639-3,en
+238,{},gqn,Guana (Brazil),,gqn,iso639-3,en
+240,{},tnq,Taino,,tnq,iso639-3,en
+242,{},cas,Mosetén,,cas,iso639-3,en
+244,{},mtp,Wichí Lhamtés Nocten,,mtp,iso639-3,en
+246,{},des,Desano,,des,iso639-3,en
+248,{},caw,Callawalla,,caw,iso639-3,en
+250,{},cav,Cavineña,,cav,iso639-3,en
+252,{},ktn,Karitiâna,,ktn,iso639-3,en
+254,{},cab,Garifuna,,cab,iso639-3,en
+256,{},ayr,Central Aymara,,ayr,iso639-3,en
+258,{},xwa,Kwaza,,xwa,iso639-3,en
+260,{},cbg,Chimila,,cbg,iso639-3,en
+262,{},pio,Piapoco,,pio,iso639-3,en
+264,{},myr,Muniche,,myr,iso639-3,en
+266,{},inp,Iñapari,,inp,iso639-3,en
+268,{},sae,Sabanê,,sae,iso639-3,en
+270,{},tpj,Tapieté,,tpj,iso639-3,en
+272,{},cbr,Cashibo-Cacataibo,,cbr,iso639-3,en
+274,{},tae,Tariana,,tae,iso639-3,en
+276,{},prq,Ashéninka Perené,,prq,iso639-3,en
+208,{},chol1284,Cholón,,{chol1284},glottolog,en
+278,{},cbt,Shawi,,cbt,iso639-3,en
+280,{},spa,Spanish,,spa,iso639-3,en
+282,{},sar,Saraveca,,sar,iso639-3,en
+284,{},wmd,Mamaindé,,wmd,iso639-3,en
+286,{},inb,Inga,,inb,iso639-3,en
+288,{},pap,Papiamento,,pap,iso639-3,en
+290,{},pav,Wari,,pav,iso639-3,en
+292,{},pay,Pech,,pay,iso639-3,en
+294,{},qwh,Huaylas Ancash Quechua,,qwh,iso639-3,en
+296,{},pab,Parecís,,pab,iso639-3,en
+298,{},miq,Mískito,,miq,iso639-3,en
+300,{},ign,Ignaciano,,ign,iso639-3,en
+302,{},lao,Lao,,lao,iso639-3,en
+304,{},mzp,Movima,,mzp,iso639-3,en
+306,{},mav,Sateré-Mawé,,mav,iso639-3,en
+308,{},snn,Siona-Tetete,,snn,iso639-3,en
+310,{},wyr,Wayoró,,wyr,iso639-3,en
+312,{},kay,Kamayurá,,kay,iso639-3,en
+314,{},ure,Uru,,ure,iso639-3,en
+316,{},sja,Epena,,sja,iso639-3,en
+318,{},ura,Urarina,,ura,iso639-3,en
+320,{},jup,Hupdë,,jup,iso639-3,en
+322,{},mpu,Makuráp,,mpu,iso639-3,en
+324,{},tpy,Trumai,,tpy,iso639-3,en
+326,{},agr,Aguaruna,,agr,iso639-3,en
+328,{},ccc,Chamicuro,,ccc,iso639-3,en
+2,{},iton1250,Itonama,,{iton1250},glottolog,en
+4,{},nort2980,North Junín Quechua,,{nort2980},glottolog,en
+6,{},bani1254,Baniva,,{bani1254},glottolog,en
+8,{},kadi1248,Kadiwéu,,{kadi1248},glottolog,en
+10,{},caja1238,Cajamarca Quechua,,{caja1238},glottolog,en
+12,{},paca1245,Pacaraos Quechua,,{paca1245},glottolog,en
+14,{},imba1240,Imbabura Highland Quichua,,{imba1240},glottolog,en
+16,{},yavi1244,Yavitero,,{yavi1244},glottolog,en
+18,{},guat1253,Guató,,{guat1253},glottolog,en
+20,{},resi1247,Resígaro,,{resi1247},glottolog,en
+22,{},toll1241,Tol,,{toll1241},glottolog,en
+24,{},lako1248,Lakondê,,{lako1248},glottolog,en
+26,{},shua1257,Shuar,,{shua1257},glottolog,en
+28,{},saki1248,Sakirabia,,{saki1248},glottolog,en
+30,{},cube1242,Cubeo,,{cube1242},glottolog,en
+32,{},sanb1242,San Blas Kuna,,{sanb1242},glottolog,en
+34,{},mash1270,Mashco Piro,,{mash1270},glottolog,en
+36,{},jama1261,Jamamadí,,{jama1261},glottolog,en
+38,{},cham1315,Chamacoco,,{cham1315},glottolog,en
+40,{},wayu1243,Wayuu,,{wayu1243},glottolog,en
+42,{},kano1245,Kanoê,,{kano1245},glottolog,en
+44,{},hixk1239,Hixkaryána,,{hixk1239},glottolog,en
+46,{},yane1238,Yanesha',,{yane1238},glottolog,en
+48,{},wara1303,Warao,,{wara1303},glottolog,en
+50,{},noma1263,Nomatsiguenga,,{noma1263},glottolog,en
+52,{},amar1274,Amarakaeri,,{amar1274},glottolog,en
+54,{},jaqa1244,Jaqaru,,{jaqa1244},glottolog,en
+56,{},emer1243,Emerillon,,{emer1243},glottolog,en
+58,{},mund1330,Mundurukú,,{mund1330},glottolog,en
+60,{},sala1272,Salasaca Highland Quichua,,{sala1272},glottolog,en
+62,{},isla1278,Island Carib,,{isla1278},glottolog,en
+64,{},iqui1243,Iquito,,{iqui1243},glottolog,en
+66,{},nina1238,Ninam,,{nina1238},glottolog,en
+68,{},curr1243,Curripaco,,{curr1243},glottolog,en
+70,{},nort2972,Northern Emberá,,{nort2972},glottolog,en
+72,{},paez1247,Páez,,{paez1247},glottolog,en
+74,{},taus1253,Taushiro,,{taus1253},glottolog,en
+76,{},enap1235,Panare,,{enap1235},glottolog,en
+78,{},tehu1242,Tehuelche,,{tehu1242},glottolog,en
+80,{},karo1305,Karo (Brazil),,{karo1305},glottolog,en
+82,{},chip1262,Chipaya,,{chip1262},glottolog,en
+84,{},araw1276,Lokono,,{araw1276},glottolog,en
+86,{},sant1432,Santiago del Estero Quichua,,{sant1432},glottolog,en
+88,{},seco1241,Secoya,,{seco1241},glottolog,en
+90,{},rama1270,Rama,,{rama1270},glottolog,en
+92,{},arhu1242,Arhuaco,,{arhu1242},glottolog,en
+94,{},tere1279,Tereno,,{tere1279},glottolog,en
+96,{},arab1268,Arabela,,{arab1268},glottolog,en
+98,{},mapu1245,Mapudungun,,{mapu1245},glottolog,en
+100,{},reye1240,Reyesano,,{reye1240},glottolog,en
+102,{},gavi1246,Gavião Do Jiparaná,,{gavi1246},glottolog,en
+104,{},ayac1239,Ayacucho Quechua,,{ayac1239},glottolog,en
+106,{},esee1248,Ese Ejja,,{esee1248},glottolog,en
+108,{},bare1276,Baré,,{bare1276},glottolog,en
+110,{},yucu1253,Yucuna,,{yucu1253},glottolog,en
+112,{},yauy1235,Huangascar-Topara-Yauyos Quechua,,{yauy1235},glottolog,en
+114,{},zapa1253,Záparo,,{zapa1253},glottolog,en
+116,{},sanm1289,San Martín Quechua,,{sanm1289},glottolog,en
+118,{},asha1243,Asháninka,,{asha1243},glottolog,en
+120,{},moch1259,Mochica,,{moch1259},glottolog,en
+122,{},sout2990,Southern Pastaza Quechua,,{sout2990},glottolog,en
+124,{},pali1279,Palikúr,,{pali1279},glottolog,en
+126,{},leco1242,Leco,,{leco1242},glottolog,en
+128,{},puin1248,Puinave,,{puin1248},glottolog,en
+130,{},tena1240,Tena Lowland Quichua,,{tena1240},glottolog,en
+132,{},moco1246,Mocoví,,{moco1246},glottolog,en
+134,{},puel1244,Puelche,,{puel1244},glottolog,en
+136,{},nucl1301,Turkish,,{nucl1301},glottolog,en
+138,{},cusc1236,Cusco Quechua,,{cusc1236},glottolog,en
+140,{},waor1240,Waorani,,{waor1240},glottolog,en
+142,{},pila1245,Pilagá,,{pila1245},glottolog,en
+144,{},hual1241,Huallaga Huánuco Quechua,,{hual1241},glottolog,en
+146,{},mehi1240,Mehináku,,{mehi1240},glottolog,en
+148,{},sout2991,South Bolivian Quechua,,{sout2991},glottolog,en
+150,{},acha1250,Achagua,,{acha1250},glottolog,en
+152,{},yura1255,Yuracaré,,{yura1255},glottolog,en
+154,{},yuqu1240,Yuqui,,{yuqu1240},glottolog,en
+156,{},nant1250,Nanti,,{nant1250},glottolog,en
+158,{},boro1282,Bororo,,{boro1282},glottolog,en
+160,{},jauj1238,Jauja Wanca Quechua,,{jauj1238},glottolog,en
+162,{},trio1238,Trió,,{trio1238},glottolog,en
+164,{},coca1259,Cocama-Cocamilla,,{coca1259},glottolog,en
+166,{},achu1248,Achuar-Shiwiar,,{achu1248},glottolog,en
+168,{},colo1256,Tsafiki,,{colo1256},glottolog,en
+170,{},bora1263,Bora,,{bora1263},glottolog,en
+172,{},enaw1238,Enawené-Nawé,,{enaw1238},glottolog,en
+174,{},cofa1242,Cofán,,{cofa1242},glottolog,en
+176,{},daww1239,Dâw,,{daww1239},glottolog,en
+178,{},apal1257,Apalaí,,{apal1257},glottolog,en
+180,{},ikpe1245,Ikpeng,,{ikpe1245},glottolog,en
+182,{},awac1239,Awa-Cuaiquer,,{awac1239},glottolog,en
+184,{},onaa1245,Selk'nam,,{onaa1245},glottolog,en
+186,{},apur1254,Apurinã,,{apur1254},glottolog,en
+188,{},xava1240,Xavánte,,{xava1240},glottolog,en
+190,{},rikb1245,Rikbaktsa,,{rikb1245},glottolog,en
+192,{},russ1263,Russian,,{russ1263},glottolog,en
+194,{},baur1253,Baure,,{baur1253},glottolog,en
+196,{},mala1522,Malayo,,{mala1522},glottolog,en
+198,{},awet1244,Awetí,,{awet1244},glottolog,en
+200,{},ayor1240,Ayoreo,,{ayor1240},glottolog,en
+202,{},nhen1239,Nhengatu,,{nhen1239},glottolog,en
+204,{},ship1254,Shipibo-Conibo,,{ship1254},glottolog,en
+206,{},sout2996,Southern Aymara,,{sout2996},glottolog,en
+210,{},toba1269,Toba,,{toba1269},glottolog,en
+212,{},waur1244,Waurá,,{waur1244},glottolog,en
+214,{},yami1256,Yaminahua,,{yami1256},glottolog,en
+216,{},wapi1253,Wapishana,,{wapi1253},glottolog,en
+218,{},kain1272,Kaingang,,{kain1272},glottolog,en
+220,{},cane1242,Canela,,{cane1242},glottolog,en
+222,{},mats1244,Matsés,,{mats1244},glottolog,en
+224,{},ngab1239,Ngäbere,,{ngab1239},glottolog,en
+226,{},mach1267,Machiguenga,,{mach1267},glottolog,en
+228,{},maca1260,Maca,,{maca1260},glottolog,en
+230,{},juru1256,Jurúna,,{juru1256},glottolog,en
+233,{},kana1291,Katukína-Kanamarí,,{kana1291},glottolog,en
+235,{},guar1293,Guarequena,,{guar1293},glottolog,en
+237,{},teri1250,Teribe,,{teri1250},glottolog,en
+239,{},guan1270,Guana (Brazil),,{guan1270},glottolog,en
+241,{},tain1254,Taino,,{tain1254},glottolog,en
+243,{},mose1249,Mosetén,,{mose1249},glottolog,en
+245,{},wich1262,Wichí Lhamtés Nocten,,{wich1262},glottolog,en
+247,{},desa1247,Desano,,{desa1247},glottolog,en
+249,{},call1235,Callawalla,,{call1235},glottolog,en
+251,{},cavi1250,Cavineña,,{cavi1250},glottolog,en
+253,{},kari1311,Karitiâna,,{kari1311},glottolog,en
+255,{},gari1256,Garifuna,,{gari1256},glottolog,en
+257,{},cent2142,Central Aymara,,{cent2142},glottolog,en
+259,{},kwaz1243,Kwaza,,{kwaz1243},glottolog,en
+261,{},chim1309,Chimila,,{chim1309},glottolog,en
+263,{},piap1246,Piapoco,,{piap1246},glottolog,en
+265,{},muni1258,Muniche,,{muni1258},glottolog,en
+267,{},inap1243,Iñapari,,{inap1243},glottolog,en
+269,{},saba1268,Sabanê,,{saba1268},glottolog,en
+271,{},tapi1253,Tapieté,,{tapi1253},glottolog,en
+273,{},cash1251,Cashibo-Cacataibo,,{cash1251},glottolog,en
+275,{},tari1256,Tariana,,{tari1256},glottolog,en
+277,{},ashe1272,Ashéninka Perené,,{ashe1272},glottolog,en
+279,{},chay1248,Shawi,,{chay1248},glottolog,en
+281,{},stan1288,Spanish,,{stan1288},glottolog,en
+283,{},sara1331,Saraveca,,{sara1331},glottolog,en
+285,{},mama1278,Mamaindé,,{mama1278},glottolog,en
+287,{},inga1252,Inga,,{inga1252},glottolog,en
+289,{},papi1253,Papiamento,,{papi1253},glottolog,en
+291,{},wari1268,Wari,,{wari1268},glottolog,en
+293,{},pech1241,Pech,,{pech1241},glottolog,en
+295,{},huay1240,Huaylas Ancash Quechua,,{huay1240},glottolog,en
+297,{},pare1272,Parecís,,{pare1272},glottolog,en
+299,{},misk1235,Mískito,,{misk1235},glottolog,en
+301,{},igna1246,Ignaciano,,{igna1246},glottolog,en
+303,{},laoo1244,Lao,,{laoo1244},glottolog,en
+305,{},movi1243,Movima,,{movi1243},glottolog,en
+307,{},sate1243,Sateré-Mawé,,{sate1243},glottolog,en
+309,{},sion1247,Siona-Tetete,,{sion1247},glottolog,en
+311,{},wayo1238,Wayoró,,{wayo1238},glottolog,en
+313,{},kama1373,Kamayurá,,{kama1373},glottolog,en
+315,{},uruu1244,Uru,,{uruu1244},glottolog,en
+317,{},epen1239,Epena,,{epen1239},glottolog,en
+319,{},urar1246,Urarina,,{urar1246},glottolog,en
+321,{},hupd1244,Hupdë,,{hupd1244},glottolog,en
+323,{},maku1278,Makuráp,,{maku1278},glottolog,en
+325,{},trum1247,Trumai,,{trum1247},glottolog,en
+327,{},agua1253,Aguaruna,,{agua1253},glottolog,en
+329,{},cham1318,Chamicuro,,{cham1318},glottolog,en

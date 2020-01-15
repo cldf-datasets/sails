@@ -1,0 +1,6 @@
+pk,jsondata,id,name,description,markup_description
+1,{},morphosyntaxnominal,morphosyntax-nominal,,
+2,{},semanticsadverbial,semantics-adverbial,,
+3,{},semanticsrelative,semantics-relative,,
+4,{},morphosyntaxother,morphosyntax-other,,
+5,{},semanticscomplement,semantics-complement,,

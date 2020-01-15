@@ -1,0 +1,605 @@
+ID,Name,Description,Domain,Contribution_ID
+AND1,What is the nominal plural marker?,,Andean-specific,AND
+AND10,What is the form of the reflexive marker?,,Andean-specific,AND
+AND11,What is the form of the reciprocal causative,,Andean-specific,AND
+AND12,Is SS marked with -spa (1)  or -r (2),,Andean-specific,AND
+AND13,Is DS marked with -qti (1) or -kpi (2),,Andean-specific,AND
+AND14,Are there other switch reference markers than -spa/-r and -qti/-kpi (extended system),,Andean-specific,AND
+AND15,Does the language has productive gerund marked with -stin,,Andean-specific,AND
+AND16,What is the form for the narrative?,,Andean-specific,AND
+AND17,What is the form for the potential 2SG,,Andean-specific,AND
+AND18,What is the form for the potential 1PLINCL,,Andean-specific,AND
+AND19,What is the form for the Durative marker,,Andean-specific,AND
+AND2,What is the pronoun that expresses 1PLEXCL,,Andean-specific,AND
+AND20,What is the form of 1sgSU Main Tense?,,Andean-specific,AND
+AND21,What is the form of 2SGPAST,,Andean-specific,AND
+AND22,What is the form of 1sgOB?,,Andean-specific,AND
+AND23,What is the form of 3sg>2sgPAST?,,Andean-specific,AND
+AND24,What is the form of 1sg>2sgPRES?,,Andean-specific,AND
+AND25,What is the form of the verbal plural marker?,,Andean-specific,AND
+AND26,What is the form of the 'equational' marker,,Andean-specific,AND
+AND3,Adverbs derived from infinitival forms are marked with,,Andean-specific,AND
+AND4,Is the 'Additional' suffix found in concessive adverbial clauses?,,Andean-specific,AND
+AND5,Is the form of the genitive and the benefactive identical (-paq) or different (-pa/-paq)?,,Andean-specific,AND
+AND6,What is the form of the ablative?,,Andean-specific,AND
+AND7,What is the form of the locative?,,Andean-specific,AND
+AND8,What is the form of 1SG possessive,,Andean-specific,AND
+AND9,Infinitival complements (Action nominals) are marked with (type mikhuyta/mikunata munani),,Andean-specific,AND
+ARGEX1-1,The dominant constituent order in an intransitive clause is,,Argument Marking,ARGEX
+ARGEX1-2,The dominant constituent order in a transitive clause is,,Argument Marking,ARGEX
+ARGEX1-3,The dominant constituent order for P and V in transitive clause is,,Argument Marking,ARGEX
+ARGEX1-4,The dominant constituent order for R in ditransitive clauses is,,Argument Marking,ARGEX
+ARGEX10-1,Reflexives constructions are marked with verbal morphology,,Argument Marking,ARGEX
+ARGEX10-2,Reflexive constructions are marked with a specialized particle,,Argument Marking,ARGEX
+ARGEX10-3,Language has independent reflexive pronouns,,Argument Marking,ARGEX
+ARGEX11-1,Reciprocal constructions are marked with verbal morphology,,Argument Marking,ARGEX
+ARGEX11-2,Reciprocal constructions are marked with a specialized particle,,Argument Marking,ARGEX
+ARGEX11-3,Language has independent reciprocal pronouns,,Argument Marking,ARGEX
+ARGEX11-4,Marking for reciprocals and reflexives is morphologically conflated,,Argument Marking,ARGEX
+ARGEX12-1,Anticausative constructions are marked with verbal morphology,,Argument Marking,ARGEX
+ARGEX12-1-1,The marking of anticausative constructions is conflated with the marking of reciprocal and/or reflexive constructions,,Argument Marking,ARGEX
+ARGEX2-1,Person can be marked for S,,Argument Marking,ARGEX
+ARGEX2-1-1,Verbal person markings for S when lexical argument is realized within clause are,,Argument Marking,ARGEX
+ARGEX2-10,Ditransitive verbs can mark R,,Argument Marking,ARGEX
+ARGEX2-10-1,Ditransitive verbs can mark both R and T simultaneously,,Argument Marking,ARGEX
+ARGEX2-11,"In transitive clauses that can mark A and P, marking is",,Argument Marking,ARGEX
+ARGEX2-12,Gender can only be marked in the singular,,Argument Marking,ARGEX
+ARGEX2-13,First person inclusive is a distinct morphological category in verbal argument markers,,Argument Marking,ARGEX
+ARGEX2-14,Verbal argument markers are fused with TMA categories,,Argument Marking,ARGEX
+ARGEX2-15,Verbal person markers show the following alignment pattern,,Argument Marking,ARGEX
+ARGEX2-2,Number can be marked for S,,Argument Marking,ARGEX
+ARGEX2-3,Gender can be marked for S,,Argument Marking,ARGEX
+ARGEX2-4,Person can be marked for A,,Argument Marking,ARGEX
+ARGEX2-4-1,Verbal person markings for A when lexical argument is realized within clause are,,Argument Marking,ARGEX
+ARGEX2-5,Number can be marked for A,,Argument Marking,ARGEX
+ARGEX2-6,Gender can be marked for A,,Argument Marking,ARGEX
+ARGEX2-7,Person can be marked for P,,Argument Marking,ARGEX
+ARGEX2-7-1,Verbal person markings for P when lexical argument is realized within clause are,,Argument Marking,ARGEX
+ARGEX2-8,Number can be marked for P,,Argument Marking,ARGEX
+ARGEX2-9,Gender can be marked for P,,Argument Marking,ARGEX
+ARGEX3-1,Language has a scenario-based split in verbal argument marking,,Argument Marking,ARGEX
+ARGEX3-1-1,A distinct morpheme marks the inverse construction on the verb,,Argument Marking,ARGEX
+ARGEX3-1-2,Referential arguments in inverse constructions are treated with a marker set distinct from that used to index the referential argument in direct constructions,,Argument Marking,ARGEX
+ARGEX3-1-3,Inverse constructions can be used to distinguish between third person participants,,Argument Marking,ARGEX
+ARGEX4-1,Language has two classes of intransitive verbs with separate formal marking of their arguments,,Argument Marking,ARGEX
+ARGEX4-1-1,"S of event verbs without control (e.g. hiccup, die, slip) are treated like minor class",,Argument Marking,ARGEX
+ARGEX4-1-2,"S of stative verbs with control (e.g. reside, be patient, be prudent) are treated like minor class",,Argument Marking,ARGEX
+ARGEX4-1-3,Intransitive verbs can alternate between classes depending on semantic considerations,,Argument Marking,ARGEX
+ARGEX4-1-4,Minor class of intransitive verbs show alignment with,,Argument Marking,ARGEX
+ARGEX5-1,S is case-marked,,Argument Marking,ARGEX
+ARGEX5-2,A is case-marked,,Argument Marking,ARGEX
+ARGEX5-3,P is case-marked,,Argument Marking,ARGEX
+ARGEX5-4,R is case marked,,Argument Marking,ARGEX
+ARGEX5-5,Case marking of core inanimate arguments is,,Argument Marking,ARGEX
+ARGEX5-6,Nouns show the following case alignment pattern,,Argument Marking,ARGEX
+ARGEX5-7,Pronouns show the following case alignment pattern,,Argument Marking,ARGEX
+ARGEX5-8,Ditransitive constructions show the following alignment pattern,,Argument Marking,ARGEX
+ARGEX5-9,Obliques are case marked,,Argument Marking,ARGEX
+ARGEX6-1,Causation can be expressed through verbal morphology,,Argument Marking,ARGEX
+ARGEX6-1-1,Causative constructions can only be derived from intransitive predicates,,Argument Marking,ARGEX
+ARGEX6-1-2,The causee in transitive-derived causative constructions is treated as,,Argument Marking,ARGEX
+ARGEX6-1-3,Direct and indirect causation are formally distinguished,,Argument Marking,ARGEX
+ARGEX6-1-4,Direct and sociative causation are formally distinguished,,Argument Marking,ARGEX
+ARGEX7-1,Applicative constructions can be marked by verbal morphology,,Argument Marking,ARGEX
+ARGEX7-1-1,Applicative constructions only select benefactive/malefactive participants,,Argument Marking,ARGEX
+ARGEX7-1-2,Applicative constructions can only select animate arguments,,Argument Marking,ARGEX
+ARGEX7-1-3,Applicative constructions can be derived from transitive verbs,,Argument Marking,ARGEX
+ARGEX7-1-4,Introduced arguments can be included as obliques in non-derived clauses,,Argument Marking,ARGEX
+ARGEX8-1,Passive constructions are marked by,,Argument Marking,ARGEX
+ARGEX8-1-1,The demoted A argument of a passive construction can be expressed in the clause,,Argument Marking,ARGEX
+ARGEX9-1,Antipassive constructions are marked by verbal morphology,,Argument Marking,ARGEX
+ARGEX9-1-1,The demoted P argument can be expressed as an oblique,,Argument Marking,ARGEX
+ARGEX9-1-2,The marking of antipassive constructions is conflated with the marking of reciprocals and/or reflexives,,Argument Marking,ARGEX
+ARW1,There are palatalized stops,,Arawakan-specific,ARW
+ARW1-1-03a,Are there as many points of articulation for nasals as there are for stops?,Only consider points of articulation where a nasal is phonetically possible,Arawakan-specific,ARW
+ARW1-1-03b,Is there contrast between heterorganic and homorganic sequence of nasal and velar stop?,"For example, does the language permit a phonetic contrast between -nk- and -ŋk- clusters",Arawakan-specific,ARW
+ARW1-1-05,Are there fricative phonemes?,,Arawakan-specific,ARW
+ARW1-1-06,Are there phonemic prenasalised stops?,,Arawakan-specific,ARW
+ARW1-1-07,Is there a phonemic distinction between l/r?,,Arawakan-specific,ARW
+ARW1-1-08,Is there a phonemic velar fricative or glide?,,Arawakan-specific,ARW
+ARW1-1-09,Is there a voicing contrast between oral (i.e. non-prenasal) stops?,,Arawakan-specific,ARW
+ARW1-1-09a,Is there a laminal/apical contrast?,,Arawakan-specific,ARW
+ARW1-1-09b,Are there retroflexed consonants?,,Arawakan-specific,ARW
+ARW1-1-10,Is there phonemic consonant length?,,Arawakan-specific,ARW
+ARW1-1-11,Is there phonemic vowel length?,,Arawakan-specific,ARW
+ARW1-1-12,Are there contrastive phonation types for vowels?,"(e.g. nasal, creaky, etc)",Arawakan-specific,ARW
+ARW1-1-13a,Are there two or more contrastive central vowels?,,Arawakan-specific,ARW
+ARW1-1-15,Is there lexically determined suprasegmental prominence?,"suprasegmental prominence can be loudness, duration, pitch, i.e. stress or tone phenomena (don't include phonemic vowel length)",Arawakan-specific,ARW
+ARW1-1-16,Is there weight-sensitive suprasegmental prominence,"suprasegmental prominence can be loudness, duration, pitch, i.e. stress or tone phenomena",Arawakan-specific,ARW
+ARW1-1-17,Is there syllable position sensitive suprasegmental prominence?,"suprasegmental prominence can be loudness, duration, pitch, i.e. stress or tone phenomena",Arawakan-specific,ARW
+ARW1-1-18,Is there a tonal system?,I.e. two or more contrastive tones ('N' here and 'Y' for 1.1.15 implies a stress system - make a note to 1.1.15 if this is not the case),Arawakan-specific,ARW
+ARW1-2-02,Are there word-final consonants?,,Arawakan-specific,ARW
+ARW1-2-03a,Are there consonant clusters (not counting prenasalized consonants) in syllable onset?,,Arawakan-specific,ARW
+ARW1-2-04,Are there consonant clusters (not counting prenasalized consonants) in syllable coda?,,Arawakan-specific,ARW
+ARW10,There is alternation of [p] and [w] or [p] and [v],,Arawakan-specific,ARW
+ARW11,There is a phonemic contrast between [u] and [o],,Arawakan-specific,ARW
+ARW12,Nasalized vowels are phonemic,,Arawakan-specific,ARW
+ARW13,Nasalized vowels result from (morpho)phonological changes,,Arawakan-specific,ARW
+ARW14,Nasalized vowels occur contiguous to nasal consonants,,Arawakan-specific,ARW
+ARW15,Nasalized vowels occur contiguous to [h],,Arawakan-specific,ARW
+ARW16,Consonant clusters result from vowel elision or metathesis,,Arawakan-specific,ARW
+ARW17,There is vowel harmony,,Arawakan-specific,ARW
+ARW18,There is metathesis,,Arawakan-specific,ARW
+ARW19,There is palatalization of consonants followed by a front vowel [i] or [e],,Arawakan-specific,ARW
+ARW2,Palatalized stops result from morphophonological changes,,Arawakan-specific,ARW
+ARW2-1-01,Are there definite or specific articles?,,Arawakan-specific,ARW
+ARW2-1-02a,Is an indefinite NP obligatorily accompanied by an indefinite (or non-specific) article?,"If only on personal names, disregard",Arawakan-specific,ARW
+ARW2-1-03a,Are there prenominal articles?,,Arawakan-specific,ARW
+ARW2-1-03b,Are there postnominal articles?,,Arawakan-specific,ARW
+ARW2-1-05a,Do numerals occur in NP before the N?,,Arawakan-specific,ARW
+ARW2-1-05b,Do numerals occur in NP after the N?,,Arawakan-specific,ARW
+ARW2-1-05c,Does the Demonstrative occur in the NP before the N?,,Arawakan-specific,ARW
+ARW2-1-05d,Does the Demonstrative occur in the NP after the N?,,Arawakan-specific,ARW
+ARW2-1-06,Are there 'discontinuous noun phrases'?,Can an argument be expressed by multiple N/NP throughout the clause > i.e. the Australian type.,Arawakan-specific,ARW
+ARW2-1-07,Is there a difference between the marking of NP coordination ('John and Mary went to market') and the marking of comitative phrases ('John went to market with Mary')?,,Arawakan-specific,ARW
+ARW2-2-01,Is there an inclusive/exclusive distinction?,,Arawakan-specific,ARW
+ARW2-2-01a,Is there a minimal-augmented system?,"i.e. four basic pronominal forms for 1sg, 2sg, 3sg and 1+2, which each can be affixed for plural (or dual etc.)",Arawakan-specific,ARW
+ARW2-2-02,"Is there a gender distinction in 3rd person pronouns (or demonstratives, if no 3rd person pronouns)?",either two- or threefold,Arawakan-specific,ARW
+ARW2-2-03,Is number marked in pronouns?,not necessarily morphologically,Arawakan-specific,ARW
+ARW2-2-03a,Is there a dual (or unit augmented) in addition to a plural (or augmented) number category in pronouns?,,Arawakan-specific,ARW
+ARW2-2-04,Are 1st and 2nd persons conflated in any context?,,Arawakan-specific,ARW
+ARW2-2-05,Are 2nd and 3rd persons conflated in non-singular numbers?,morphologically in any paradigm; disregard pragmatics/politeness,Arawakan-specific,ARW
+ARW2-2-06,Are person categories neutralized under some conditions?,"e.g. in non-singular, under NEG, in certain TAM",Arawakan-specific,ARW
+ARW2-3-02a,Is there an opposition between three or more distance terms in the demonstrative system?,,Arawakan-specific,ARW
+ARW2-3-05,Is elevation morphologically marked in demonstratives?,,Arawakan-specific,ARW
+ARW2-3-06a,Is the opposition visible-non-visible marked on demonstratives?,,Arawakan-specific,ARW
+ARW2-3-07,Are demonstratives classified?,,Arawakan-specific,ARW
+ARW2-4-02,Are there declensions (partly) determined by number of the noun?,(By noun declensions is meant e.g. nouns divided into groups which act differently in terms of morphological marking. Do not include place names which can act as bare adjuncts.),Arawakan-specific,ARW
+ARW2-4-03,Are there declensions (partly) determined by gender of the noun?,,Arawakan-specific,ARW
+ARW2-4-05,Are there nouns which are suppletive for number?,Only answer yes if present for more than 2 (basic) kin terms,Arawakan-specific,ARW
+ARW2-4-07,Can singular number be marked on the noun itself?,number-marking on N does not count phrase-level clitic or reduplication absence of plural marking does NOT count as singular marking,Arawakan-specific,ARW
+ARW2-4-08,Can dual number be marked on the noun itself?,number-marking on N does not count phrase-level clitic or reduplication,Arawakan-specific,ARW
+ARW2-4-09,Can plural number be marked on the noun itself?,number-marking on N does not count phrase-level clitic or reduplication,Arawakan-specific,ARW
+ARW2-4-11,Is number marking prohibited on certain (types of) nouns?,"(do not include proper nouns, e.g. place names or personal names)",Arawakan-specific,ARW
+ARW2-4-11a,Are there associative plurals?,e.g. Mary-PL = Mary and her family,Arawakan-specific,ARW
+ARW2-4-12,Is there a productive morphologically marked Action/state nominalization (arrive-arrival)?,"if a language is precategorial, include the morphological mechanisms to produce such 'nominalizations'",Arawakan-specific,ARW
+ARW2-4-13,Is there a productive morphologically marked Agentive nominalization (sing-er)?,,Arawakan-specific,ARW
+ARW2-4-14,Is there a productive morphologically marked Object nominalization (sing; song)?,,Arawakan-specific,ARW
+ARW2-5-01,Are there noun classes/genders?,By noun classes/genders is meant a system of dividing all or almost all of the nouns of a language into morphological classes which determine agreement phenomena beyond the noun itself.,Arawakan-specific,ARW
+ARW2-5-01a,"If there are noun classes/genders, state how many",i.e. if the answer to 2.5.01 is YES,Arawakan-specific,ARW
+ARW2-5-02,Is sex a relevant category in the noun class/gender system?,,Arawakan-specific,ARW
+ARW2-5-03,Is shape a relevant category in the noun class/gender system?,,Arawakan-specific,ARW
+ARW2-5-04,Is animacy (without reference to sex)  a relevant category in the noun class/gender system?,,Arawakan-specific,ARW
+ARW2-5-04a,Is plant status a relevant category in the noun class/gender system?,,Arawakan-specific,ARW
+ARW2-5-05,Does the language only have a gender distinction in 3rd person pronouns?,emphasis on ONLY; cf. 2.2.02,Arawakan-specific,ARW
+ARW2-5-06,"Is there concord within the NP, i.e. agreement of elements within the NP with the noun class of a noun?",related to class/gender,Arawakan-specific,ARW
+ARW2-5-07,"Is there concord beyond the NP, i.e. agreement of elements outside the NP with the noun class of a noun?",related to class/gender,Arawakan-specific,ARW
+ARW2-5-08,(Swintha) Are there classifiers?,"i.e. free or bound morphemes which are non-agreeing, noun categorisation devices, the choice of which is determined by lexical selection",Arawakan-specific,ARW
+ARW2-5-09,Are there numeral classifiers? [ARW2-5-09],"i.e. free or bound morphemes which are non-agreeing, noun categorisation devices, the choice of which is determined by lexical selection",Arawakan-specific,ARW
+ARW2-5-10,Are there possessive classifiers?,"i.e. free or bound morphemes which are non-agreeing, noun categorisation devices, the choice of which is determined by lexical selection",Arawakan-specific,ARW
+ARW2-6-01,Are there possessive classes?,(i.e. different nouns treated differently in possession according to semantically-based groupings. Include alienable/inalienable.),Arawakan-specific,ARW
+ARW2-6-02,Is alienable/inalienable a relevant distinction?,,Arawakan-specific,ARW
+ARW2-6-03,Are there different possessive constructions?,,Arawakan-specific,ARW
+ARW2-6-05,Can possession be marked by a prefix?,even if only on a restricted number of kin terms; emphasis is on can.,Arawakan-specific,ARW
+ARW2-6-06,Can possession be marked by a suffix?,even if only on a restricted number of kin terms; emphasis is on can.,Arawakan-specific,ARW
+ARW2-6-07,Can possession be marked on the nominal possessor?,,Arawakan-specific,ARW
+ARW2-6-08,Can possession be marked on the nominal possessee?,,Arawakan-specific,ARW
+ARW2-6-09a,Is possessor-possessed a normal order for elements of the attributive possessive construction?,,Arawakan-specific,ARW
+ARW2-6-09b,Is possessed-possessor a normal order for elements of the attributive possessive construction?,,Arawakan-specific,ARW
+ARW2-6-10,Are there different orders of elements in a possessive phrase for different classes of possession?,emphasis on for different types of possession,Arawakan-specific,ARW
+ARW2-7-01,Is there a decimal counting system?,"i.e. elements of decimal; even lexical 10, 10+5 qualify",Arawakan-specific,ARW
+ARW2-7-02,Is there evidence for any element of a quinary counting system?,"(e.g. expressions for 5+1, 10+5+1)",Arawakan-specific,ARW
+ARW2-7-03a,Is there a body-part tallying system?,,Arawakan-specific,ARW
+ARW2-7-03b,Is there a minimal counting system or no clear number altogether?,"(e.g. one, two, (2+1=3), many)",Arawakan-specific,ARW
+ARW2-8-01a,"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) act like verbs in predicative position?",,Arawakan-specific,ARW
+ARW2-8-01b,"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",,Arawakan-specific,ARW
+ARW2-9-01,"Is there case marking for core nominal NPs (i.e., S, A or O function)?","for case marking, include any affixal marking which appears in the NP and shows the function of the NP in the clause; do not count adpositions",Arawakan-specific,ARW
+ARW2-9-01a,Is there case marking for core pronouns?,,Arawakan-specific,ARW
+ARW2-9-02,Is there case marking for oblique nominal NPs ?,"e.g. locationals, instrumentals, etc. do not count adpositions",Arawakan-specific,ARW
+ARW2-9-02a,Is there case marking for oblique pronouns?,,Arawakan-specific,ARW
+ARW2-9-03,Are there prepositions?,,Arawakan-specific,ARW
+ARW2-9-04,Are there postpositions?,,Arawakan-specific,ARW
+ARW2-9-05,Are there adpositions to mark core NPs?,,Arawakan-specific,ARW
+ARW2-9-06,Are there adpositions to mark oblique NPs?,,Arawakan-specific,ARW
+ARW2-9-07,Is there a distinction between locational and directional adpositions?,,Arawakan-specific,ARW
+ARW20,There is final vowel elision (word- or syllable-finally),,Arawakan-specific,ARW
+ARW21,There is labialization of consonants,,Arawakan-specific,ARW
+ARW22,Prefixes are generally monosyllabic,,Arawakan-specific,ARW
+ARW23,"Suffixes are mostly monosyllabic, but a few are disyllabic",,Arawakan-specific,ARW
+ARW24,"Roots are mostly disyllabic, but a few are monsyllabic",,Arawakan-specific,ARW
+ARW25,Feminine gender is the default gender,,Arawakan-specific,ARW
+ARW26,"The language is mostly suffixing, with only a few prefixes",,Arawakan-specific,ARW
+ARW27,There is a causative prefix,,Arawakan-specific,ARW
+ARW28,There is a causative suffix,,Arawakan-specific,ARW
+ARW29,There is an open class of adjectives,,Arawakan-specific,ARW
+ARW3,Aspirated stops result from morphophonological changes,,Arawakan-specific,ARW
+ARW3-1-03,Do the same morphemes systematically encode both TAM and person?,,Arawakan-specific,ARW
+ARW3-1-04a,"Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A &amp; S + TAM)?","A, S, and O affixes are dealt with in 3.3",Arawakan-specific,ARW
+ARW3-1-05a,"Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A &amp; S + TAM)?",,Arawakan-specific,ARW
+ARW3-1-06,"Can infixation be used on verbs for derivational, aspectual, or voice-changing purposes?",,Arawakan-specific,ARW
+ARW3-2-01a,Is there present tense regularly morphologically marked on the verb?,,Arawakan-specific,ARW
+ARW3-2-02a,Is there past tense regularly morphologically marked on the verb?,,Arawakan-specific,ARW
+ARW3-2-02b,Is there future tense regularly morphologically marked on the verb?,,Arawakan-specific,ARW
+ARW3-2-02c,"Are there multiple past or future tenses, distinguishing distance from Time of Reference, marked on the verb?",,Arawakan-specific,ARW
+ARW3-2-10,Is a distinction between punctual/continuous aspect available as a morphological choice?,,Arawakan-specific,ARW
+ARW3-2-11,Is a distinction between realis/irrealis mood available as a morphological choice?,,Arawakan-specific,ARW
+ARW3-2-12,Is there an apprehensive modal category marked on the verb,"also known as 'evitative', 'lest', etc",Arawakan-specific,ARW
+ARW3-3-07,Is the S participant (at least sometimes) marked by a suffix/enclitic?,3.3.07-3.3.12 pertain to verb morphology,Arawakan-specific,ARW
+ARW3-3-08,Is the S participant (at least sometimes) marked by a prefix/proclitic?,,Arawakan-specific,ARW
+ARW3-3-09,Is the A participant (at least sometimes) marked by a suffix/enclitic?,,Arawakan-specific,ARW
+ARW3-3-10,Is the A participant (at least sometimes) marked by a prefix/proclitic?,,Arawakan-specific,ARW
+ARW3-3-11,Is the O participant (at least sometimes) marked by a suffix/enclitic?,,Arawakan-specific,ARW
+ARW3-3-12,Is the O participant (at least sometimes) marked by a prefix/proclitic?,,Arawakan-specific,ARW
+ARW3-3-15,Are variations in marking strategies of core participants based on TAM distinctions?,3.3.15-18 refer to variations (if they occur) in 3.3.07-12,Arawakan-specific,ARW
+ARW3-3-16,Are variations in marking strategies based on verb classes?,,Arawakan-specific,ARW
+ARW3-3-17,"Are variations in marking strategies based on clause type, e.g. main vs subordinate?",,Arawakan-specific,ARW
+ARW3-3-18,Are variations in marking strategies based on person distinctions?,,Arawakan-specific,ARW
+ARW3-3-21,Do verb stems alter according to the person of a core participant?,,Arawakan-specific,ARW
+ARW3-3-22,Is number ever marked separately from person on the verb?,,Arawakan-specific,ARW
+ARW3-3-23,"Are person, number and any TAM category (i.e. 3 or more categories in all) marked by portmanteau morphemes on verbs?",The questions 3.3.23ff imply 'do they ever'?,Arawakan-specific,ARW
+ARW3-3-24,"Are categories such as person, number, gender related to a single participant discontinuously marked on a verb?",,Arawakan-specific,ARW
+ARW3-4-02,Are benefactive nominals marked on the verb?,,Arawakan-specific,ARW
+ARW3-4-02a,Can instruments be marked on the verb?,,Arawakan-specific,ARW
+ARW3-4-03,"Can recipients be treated as a transitive object, i.e. as Direct object?",,Arawakan-specific,ARW
+ARW3-4-04,Are there syntactically ditransitive verbs?,,Arawakan-specific,ARW
+ARW3-5-02,Is gender marked anywhere separately to person?,,Arawakan-specific,ARW
+ARW3-5-04,Is negation marked morphologically on the verbs?,"i.e. affixation, stem alternation, neutralization of some inflection",Arawakan-specific,ARW
+ARW3-5-05a,Can locative or direction be morphologically marked on the verb?,Locative as Direct Object ('she sleeps mat') does not qualify,Arawakan-specific,ARW
+ARW3-6-01,Are there suppletive verbs for number of participants?,"(list them all if feasible, otherwise give an estimate of the number and/or proportion of nouns)",Arawakan-specific,ARW
+ARW3-6-01a,Are there suppletive verbs for tense or aspect?,,Arawakan-specific,ARW
+ARW3-6-02,Are there conjugation classes?,,Arawakan-specific,ARW
+ARW3-6-03,Can a large proportion of verbs be used either transitively or intransitively with no morphological marking?,say no if it's only one or two stems; Intended here is the 'break' and 'open' type; not John eats/ eats the bread,Arawakan-specific,ARW
+ARW3-6-04,Is there transitivising morphology (include clitics)?,,Arawakan-specific,ARW
+ARW3-6-05,Is there intransitivising morphology (include clitics)?,,Arawakan-specific,ARW
+ARW3-6-06,Is there morphology (include clitics) to mark a reflexive action?,free word/particle does not count; neither a default P/N co-reference,Arawakan-specific,ARW
+ARW3-6-07,Is there morphology (include clitics) to mark a reciprocal action?,,Arawakan-specific,ARW
+ARW3-6-08,"Do verbs classify the shape, size, consistency or position of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",not included here are positional verbs that classify a referent in such terms - covered by 3.8.02,Arawakan-specific,ARW
+ARW3-7-01,Is there a copula for predicate nouns?,e.g. John is a teacher,Arawakan-specific,ARW
+ARW3-7-03,Are there serial verb constructions?,"(i.e. two or more verbs in juxtaposition, functioning as a single predicate, with no morphology to mark their relationship with each other. Each of the verbs is a separate phonological word but the construction as a whole is expressed in one intonational unit. Morphology is shared to a greater or lesser extent.)",Arawakan-specific,ARW
+ARW3-7-04a,Are there modal auxiliaries?,,Arawakan-specific,ARW
+ARW3-7-04b,Are there aspectual auxiliaries?,,Arawakan-specific,ARW
+ARW3-7-04c,Are there tense auxiliaries?,,Arawakan-specific,ARW
+ARW3-7-05,Is verb compounding a regular process?,(i.e. two or more verb stems acting as one phonological and grammatical word),Arawakan-specific,ARW
+ARW3-7-06,Are there verb-adjunct (aka light-verb) constructions?,"(i.e. constructions involving a non-predicating element expressing the lexical meaning of the construction, in conjunction with a semantically fairly empty verb, which enables the element to function as a predicate by providing the necessary morphology, e.g. eye do for 'see'; or sneeze hit for 'sneeze')",Arawakan-specific,ARW
+ARW3-7-07a,Is there incorporation of nouns into verbs a productive intransitivizing process?,,Arawakan-specific,ARW
+ARW3-7-08,"Is there productive incorporation of other elements (adjectives, locatives, etc.) into verbs?",,Arawakan-specific,ARW
+ARW3-8-01,Is there one or more existential verb?,,Arawakan-specific,ARW
+ARW3-8-02,Are there positional (classificatory) verbs?,"(i.e. in answer to a question 'Where is the X', does the verb used in the answer depend on the type of referent (e.g. do you have to say 'The X sits/stands/lies/etc on the table'). List them all.",Arawakan-specific,ARW
+ARW3-8-03,Is the verb 'give' morphologically peculiar (different from most other verbs?,e.g. stem suppletion; different affixation,Arawakan-specific,ARW
+ARW3-8-04,"Is there a notably small number, i.e. about 1nono or less,  of verbs in the language?",,Arawakan-specific,ARW
+ARW30,Adjectives are noun-like,,Arawakan-specific,ARW
+ARW31,Adjectives are like stative verbs,,Arawakan-specific,ARW
+ARW32,The possessor is marked by a personal prefix/proclitic on the possessed noun,,Arawakan-specific,ARW
+ARW33,The order of NPs is possessor-possessed,,Arawakan-specific,ARW
+ARW34,The order of NPs is possessed-possessor,,Arawakan-specific,ARW
+ARW35,The possessor marking is the same personal prefix/proclitic as S/A on verbs,,Arawakan-specific,ARW
+ARW36,There is an impersonal/unspecified possessor prefix/proclitic for nouns,,Arawakan-specific,ARW
+ARW37,There is an impersonal/unspecified possessor suffix/enclitic for nouns,,Arawakan-specific,ARW
+ARW38,There is an impersonal/unspecified prefix/proclitic for verbs,,Arawakan-specific,ARW
+ARW39,The personal prefix/proclitic 1SG is ni-/no-,,Arawakan-specific,ARW
+ARW4,There is no voice distinction in stops,,Arawakan-specific,ARW
+ARW4-1-01,Is a pragmatically unmarked constituent order SV for intransitive clauses?,,Arawakan-specific,ARW
+ARW4-1-02,Is a pragmatically unmarked constituent order VS for intransitive clauses?,,Arawakan-specific,ARW
+ARW4-1-03,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,,Arawakan-specific,ARW
+ARW4-1-04,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,,Arawakan-specific,ARW
+ARW4-1-05,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,,Arawakan-specific,ARW
+ARW4-1-05a,Is the order of constituents the same in main and subordinate clauses?,,Arawakan-specific,ARW
+ARW4-1-05b,Do clausal objects occur in the same position as nominal objects?,,Arawakan-specific,ARW
+ARW4-1-06,Is constituent order fixed?,"Do not consider 'left or right-dislocation', accompanied by intonational signals",Arawakan-specific,ARW
+ARW4-1-07,Can negation be marked clause-finally?,This includes suffixes on verb-final clauses; prefixes on clause-final verbs do not count; Don't include elliptical 'Pete didn't',Arawakan-specific,ARW
+ARW4-1-08,Can negation be marked clause-initially?,Don't include elliptical 'Not Mary',Arawakan-specific,ARW
+ARW4-1-09,Is there a difference between imperative and declarative negation?,,Arawakan-specific,ARW
+ARW4-1-10,Are verbal and non-verbal predicates marked by the same negator?,,Arawakan-specific,ARW
+ARW4-2-01,"Are S and O conflated morphologically in at least some basic constructions, i.e. simple main clauses?",,Arawakan-specific,ARW
+ARW4-2-02,"Are S and A conflated morphologically in at least some basic constructions, i.e. simple main clauses?",,Arawakan-specific,ARW
+ARW4-2-03,"Are S and O conflated morphologically across clause boundaries, i.e. acting as syntactic pivot?",,Arawakan-specific,ARW
+ARW4-2-04,"Are S and A conflated morphologically across clause boundaries, i.e. acting as syntactic pivot?",,Arawakan-specific,ARW
+ARW4-2-05,"Do S and O operate in the same way, and differently from A, for the purpose of any syntactic construction?",,Arawakan-specific,ARW
+ARW4-2-06,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,,Arawakan-specific,ARW
+ARW4-2a-01,Is there a morphologically marked passive construction?,morphological marking includes some verbal affixation or some periphrastic element in the VP or clause,Arawakan-specific,ARW
+ARW4-2a-02,Is there a morphologically marked antipassive?,morphological marking includes some verbal affixation or some periphrastic element in the VP or clause,Arawakan-specific,ARW
+ARW4-2a-03,Is there a morphologically marked inverse?,"i.e. different marking by verbal affixation or pronominal clitics referring to A and O, depending on person, animacy or definiteness",Arawakan-specific,ARW
+ARW4-2a-04,Is there an Actor voice contrasted with one or more Undergoer voices?,,Arawakan-specific,ARW
+ARW4-3-01,Is there clause chaining?,(i.e. chains of morphologically stripped-down medial clauses which are dependent on one final clause for their TAM or participant marking specification),Arawakan-specific,ARW
+ARW4-3-02,Is there a morphologically-marked switch reference system?,,Arawakan-specific,ARW
+ARW4-3-03,Is there a morphologically marked distinction between simultaneous and sequential clauses?,,Arawakan-specific,ARW
+ARW4-3-04,Is the verb 'say' or a quotative construction used in desiderative constructions?,(e.g. 'I said for him to go' for 'I wanted him to go'),Arawakan-specific,ARW
+ARW4-3-05a,"Are there relative clauses, i.e. embedded construction by which a clause modifies a head N?","This excludes paratactic constructions such as 'correlative clauses', i.e. 'the man went away. The man killed the pig' translatable as 'The man who killed the pig went away'.",Arawakan-specific,ARW
+ARW4-3-07,Are there purposive non-finite subordinate clauses?,NOTE: I'm still not happy with 4.3.07-11,Arawakan-specific,ARW
+ARW4-3-08,Are there temporal non-finite subordinate clauses?,,Arawakan-specific,ARW
+ARW4-3-08a,Are there conditional non-finite subordinate clauses?,,Arawakan-specific,ARW
+ARW4-3-09a,Are there complement clauses for speech verbs?,,Arawakan-specific,ARW
+ARW4-3-09b,Are there complement clauses for perception verbs?,,Arawakan-specific,ARW
+ARW4-3-09c,Is there a complementizer that precedes a complement clause?,,Arawakan-specific,ARW
+ARW4-3-09d,Is there a complementizer that follows a complement clause?,,Arawakan-specific,ARW
+ARW4-3-11,"Are there participle or gerund constructions, morphologically separate from RC or subordinate clauses?",,Arawakan-specific,ARW
+ARW4-4-01,Are causatives formed by serial verb constructions?,,Arawakan-specific,ARW
+ARW4-4-02,Are causatives formed by bound affixes/clitics?,,Arawakan-specific,ARW
+ARW4-4-03,Are causatives formed by constructions involving 'say'?,,Arawakan-specific,ARW
+ARW4-5-03,Is there tail-head linkage?,(i.e. a discourse strategy in which the final verb of one sentence is repeated as the first verb of the next sentence),Arawakan-specific,ARW
+ARW4-5-05,Are verbs reduplicated?,,Arawakan-specific,ARW
+ARW4-5-06,Are nouns reduplicated?,,Arawakan-specific,ARW
+ARW4-5-07,Are elements apart from verbs or nouns reduplicated?,,Arawakan-specific,ARW
+ARW40,The personal prefix/proclitic 1SG is ta-/da-,,Arawakan-specific,ARW
+ARW41,2SG is pi-/bi-,,Arawakan-specific,ARW
+ARW42,3SGf is ro- or (l)o-,,Arawakan-specific,ARW
+ARW43,3SGm is ri- or (l)i-,,Arawakan-specific,ARW
+ARW44,3SGm is ro- or (l)o-,,Arawakan-specific,ARW
+ARW45,3SGf is ri- or (l)i-,,Arawakan-specific,ARW
+ARW46,1PL is vi-/wa-,,Arawakan-specific,ARW
+ARW47,2PL is (y)i-/hi-,,Arawakan-specific,ARW
+ARW48,3PL is no-/na-,,Arawakan-specific,ARW
+ARW49,The personal suffix/enclitic 1SG is -ni/-no,,Arawakan-specific,ARW
+ARW5,Voiced stops result from morphophonological changes,,Arawakan-specific,ARW
+ARW5-2-01,Is there a construction encoding kin dyads?,,Arawakan-specific,ARW
+ARW5-2-02,Is the term for father the same as the term for father's brother  (i.e. F = FB)?,"The 4 possible answers to these 5.2 and 5.3 corresponds to the classic 4-way division into Eskimo, Sudanese, Dravidian and Hawaiian systems on the basis of how uncle terms pattern",Arawakan-specific,ARW
+ARW5-2-03,Is the term for mother's brother the same as the term for father's brother (i.e. MB = FB)?,"The 4 possible answers to these 5.2 and 5.3 corresponds to the classic 4-way division into Eskimo, Sudanese, Dravidian and Hawaiian systems on the basis of how uncle terms pattern",Arawakan-specific,ARW
+ARW5-2-04,Are there self-converse grandparent terms?,e.g. one term for FF and SS,Arawakan-specific,ARW
+ARW5-2-05,Is there a terminological distinction between cross- and parallel-cousins?,"(will correlate fairly well, though not perfectly, with the answers to 5.2 and 5.3)",Arawakan-specific,ARW
+ARW5-2-06,Is there a terminological distinction between first and second cousins (for at least some types of cousin)?,,Arawakan-specific,ARW
+ARW5-2-07,Is there a terminological distinction between patrilateral and matrilateral cousins (for at least some types of cousin)?,,Arawakan-specific,ARW
+ARW5-2-08,Is the term for a man's child distinct from the term for a woman's child?,,Arawakan-specific,ARW
+ARW5-2-09,Is the term for a man's child the same as the term for a woman's brother's child?,,Arawakan-specific,ARW
+ARW5-2-10,Is relative age a factor in differentiating at least one sibling term?,,Arawakan-specific,ARW
+ARW5-2-11,Is sex of referent a factor in differentiating at least one sibling term?,,Arawakan-specific,ARW
+ARW5-2-12,Is sex of speaker a factor in differentiating at least one sibling term?,,Arawakan-specific,ARW
+ARW50,The personal suffix/enclitic 1SG is -ta/-da,,Arawakan-specific,ARW
+ARW51,2SG is -pi,,Arawakan-specific,ARW
+ARW52,3SGf is -ro or -(l)o,,Arawakan-specific,ARW
+ARW53,3SGm is -ri or -(l)i,,Arawakan-specific,ARW
+ARW54,3SGf is -ri or -(l)i,,Arawakan-specific,ARW
+ARW55,3SGm is -ro or -(l)o,,Arawakan-specific,ARW
+ARW56,1PL is -vi/-wa,,Arawakan-specific,ARW
+ARW57,2PL is -(y)i,,Arawakan-specific,ARW
+ARW58,3PL is -no/-na,,Arawakan-specific,ARW
+ARW59,3SG is not marked by prefix/proclitics,,Arawakan-specific,ARW
+ARW6,Stops are unstable and frequently undergo phonetic change,,Arawakan-specific,ARW
+ARW60,3PL is not marked by prefix/proclitic,,Arawakan-specific,ARW
+ARW61,3SG is not marked by suffix/enclitics,,Arawakan-specific,ARW
+ARW62,3PL is not marked by suffix/enclitic,,Arawakan-specific,ARW
+ARW63,3PL has separate gender/person and plural marking,,Arawakan-specific,ARW
+ARW64,Is there a difference between human and non-human plural marking? or animate vs. inan,,Arawakan-specific,ARW
+ARW65,Is reduplication a productive process?,,Arawakan-specific,ARW
+ARW66,Is there an attributive prefix with the form kA-?,,Arawakan-specific,ARW
+ARW67,Is there a privative prefix with the form mA-?,,Arawakan-specific,ARW
+ARW68,Are there two suppletive forms for 'house' depending on possessability?,,Arawakan-specific,ARW
+ARW69,Is there a plural suffix similar to -no,,Arawakan-specific,ARW
+ARW7,The phoneme [b] is restricted to onomatopoeia and loans or is an allophone of [p],,Arawakan-specific,ARW
+ARW70,Is there a plural suffix similar to -pe,,Arawakan-specific,ARW
+ARW71,Are there any suppletive forms for number?,,Arawakan-specific,ARW
+ARW72,Are there any suppletive forms disinguished only by possessability?,,Arawakan-specific,ARW
+ARW73,Are there locative classifiers?,,Arawakan-specific,ARW
+ARW8,There is a voiced labio-dental [v],,Arawakan-specific,ARW
+ARW9,There is a bilabial fricative [B],,Arawakan-specific,ARW
+FFQ1,Central high vowel (phonemic),,Foothills-special,FFQ
+FFQ10,Nasal spread,,Foothills-special,FFQ
+FFQ11,Glottalized stops (phonemic),,Foothills-special,FFQ
+FFQ12,Aspirated stops (phonemic),,Foothills-special,FFQ
+FFQ13,Prefixes (specify whether this includes person prefixes),,Foothills-special,FFQ
+FFQ14,Isomorphism of possessor and core verbal argument person markers,,Foothills-special,FFQ
+FFQ15,Elaborate case marking system (phonologically dependent elements),,Foothills-special,FFQ
+FFQ16,"Core case (i.e. case marker for nominative, accusative, ergative, absolutive)",,Foothills-special,FFQ
+FFQ17,"Accusative alignment in simple clauses (by word order, verbal marking or case marking`with no major conflicting signals)",split system = N,Foothills-special,FFQ
+FFQ18,Dependent marking for possession (beyond pronouns),,Foothills-special,FFQ
+FFQ19,Classifier or gender systems,"> 1 marked class, beyond pronouns",Foothills-special,FFQ
+FFQ2,Mid vowels (phonemic),,Foothills-special,FFQ
+FFQ20,O before A basic constituent order,,Foothills-special,FFQ
+FFQ21,Basic AN order,,Foothills-special,FFQ
+FFQ22,Numerals >9 (non-Spanish/Portuguese),,Foothills-special,FFQ
+FFQ23,Ideophones (as a clear separate word class),,Foothills-special,FFQ
+FFQ3,Contrastive vowel nasalization,,Foothills-special,FFQ
+FFQ4,Palatal nasal (phonemic),,Foothills-special,FFQ
+FFQ5,Velar-uvular opposition for stops (phonemic),,Foothills-special,FFQ
+FFQ6,Retroflex affricates (phonemic),,Foothills-special,FFQ
+FFQ7,More affricates than fricatives (phonemic),equal amount is N,Foothills-special,FFQ
+FFQ8,Single liquid phoneme (phonemic),,Foothills-special,FFQ
+FFQ9,Closed syllables (number of consonants allowed in coda),,Foothills-special,FFQ
+ICS1,Is there one or more uvular occlusive phoneme?,"Corresponds to WALS feature number: 6 [http://wals.info], Constenla feature number: 56 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS10,Are there numeral classifiers? [ICS10],"Corresponds to WALS feature number: 55 [http://wals.info], Constenla feature number: 41 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS11,Does the language have pronominal possessive prefixes?,"Corresponds to WALS feature number: 57 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS12,Does the language have pronominal possessive suffixes?,"Corresponds to WALS feature number: 57 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS13,Is there a morpheme that marks genitive case in inalienable posession?,"Corresponds to WALS feature number: 58 [http://wals.info], Constenla feature number: 22 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS14,Is there a morpheme that marks genitive case in alienable posession?,"Corresponds to WALS feature number: 58 [http://wals.info], Constenla feature number: 23 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS15,Does the language mark past tense?,"Corresponds to WALS feature number: 66 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS16,Are there prefixes to indicate tense or aspect?,"Corresponds to WALS feature number: 69 [http://wals.info], Constenla feature number: 37 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS17,Are there suffixes to indicate tense or aspect?,"Corresponds to WALS feature number: 69 [http://wals.info], Constenla feature number: 38 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS18,Is there VO order in transitive clauses?,"Corresponds to WALS feature number: 83 [http://wals.info], Constenla feature number: 1 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS19,Is there VS (verb-agent) order in transitive clauses?,"Corresponds to WALS feature number: 82 [http://wals.info], Constenla feature number: 2 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS2,Is there a non-labial glottalized occlusive?,"Corresponds to WALS feature number: 7 [http://wals.info], Constenla feature number: 50, 51, 62 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS20,Is there VS (S may be agent or object) order in intransitive sentences?,"Corresponds to WALS feature number: 82 [http://wals.info], Constenla feature number: 4 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS21,Does the language have case prefixes or prepositional clitics?,"Corresponds to WALS feature number: 51 [http://wals.info], Constenla feature number: 5 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS22,Does the language have case suffixes or postpositional clitics?,"Corresponds to WALS feature number: 51 [http://wals.info], Constenla feature number: 6 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS23,Is the basic order of constituents SOV?,"Corresponds to WALS feature number: 81 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS24,Is nominal plurality marked with an affix or clitic?,"Corresponds to WALS feature number: 33 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS25,Is the order of adpositions and nouns as follows: noun - postposition or noun - case suffixes?,"Corresponds to WALS feature number: 85 [http://wals.info], Constenla feature number: 6 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS26,Is the order of the noun that is possessed and the noun that indicates the posessor (the genitive) N-Gen?,"Corresponds to WALS feature number: 86 [http://wals.info], Constenla feature number: 7 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS27,Is the order of the noun that is possessed and the noun that indicates the posessor (the genitive) Gen - N?,"Corresponds to WALS feature number: 86 [http://wals.info], Constenla feature number: 8 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS28,Is the order of the adjective and the noun A - N?,"Corresponds to WALS feature number: 87 [http://wals.info], Constenla feature number: 9 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS29,Is the order is numerals with respect to the indefinite nominal phrase  Num - N?,"Corresponds to WALS feature number: 89 [http://wals.info], Constenla feature number: 11 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS3,Is there a velar nasal phoneme /ij/?,"Corresponds to WALS feature number: 9 [http://wals.info], Constenla feature number: 74 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS30,Is the order of the demonstrative and the noun Dem - N?,"Corresponds to WALS feature number: 88 [http://wals.info], Constenla feature number: 12 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS31,"Is the order of the interrogative word and the clause obligatorily question word - clause (i.e., are question words positioned initially)?","Corresponds to WALS feature number: 93 [http://wals.info], Constenla feature number: 14 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS32,Is a zero copula possible for at least some predicate nominals (non-overt copula)?,"Corresponds to WALS feature number: 120 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS33,Does the language use the same strategy to encode nominal and locational predicates?,"Corresponds to WALS feature number: 119 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS34,"In NP conjunction, is 'and' the same as 'with'?","Corresponds to WALS feature number: 63 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS35,Does the language have a case system that does not distinguish between the agent or patient of an intransitive verb and the patient of an transitive verb?,"Corresponds to WALS feature number: 98 [http://wals.info], Constenla feature number: 26 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS36,Does the language treat S and O the same in pronouns?,"Corresponds to WALS feature number: 99 [http://wals.info], Constenla feature number: 26 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS37,Does the language treat S and O the same in verbal person marking?,"Corresponds to WALS feature number: 100 [http://wals.info], Constenla feature number: 26 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS38,Does the language have a case system that distinguishes between the agent of an intransitive action verb and the patient of intransitive process verbs?,"Corresponds to WALS feature number: 98 [http://wals.info], Constenla feature number: 25 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS39,Does the language distinguish between Sa and So in pronouns?,"Corresponds to WALS feature number: 99 [http://wals.info], Constenla feature number: 25 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS4,Is there a nasality contrast for vowels?,"Corresponds to WALS feature number: 10 [http://wals.info], Constenla feature number: 47 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS40,Does the language distinguish between Sa and So in verbal person marking?,"Corresponds to WALS feature number: 100 [http://wals.info], Constenla feature number: 25 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS41,Do predicative adjectives have verbal encoding?,"Corresponds to WALS feature number: 118 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS42,Do predicative adjectives have non-verbal encoding?,"Corresponds to WALS feature number: 118 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-template,IC
+ICS43,Does the language encode direct evidentiality (perceived with senses)?,"Corresponds to WALS feature number: 77 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS44,"Does the language encode indirect evidentiality (hearsay, inference, etc)?","Corresponds to WALS feature number: 77 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS5,Is there a rounding contrast for non-front (central or back) vowels of the same height?,"Corresponds to WALS feature number: 11 [http://wals.info], Constenla feature number: 45 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS6,Are there tonal contrasts?,"Corresponds to WALS feature number: 13 [http://wals.info], Constenla feature number: 49 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS7,"Does the language lack bilabials, fricatives, or nasals?","Corresponds to WALS feature number: 18 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS8,Is there an opposition between masculine and feminine personal pronouns?,"Corresponds to WALS feature number: 44 [http://wals.info], Constenla feature number: 18 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICS9,Is there a distinction between inclusive and exclusive for personal pronouns?,"Corresponds to WALS feature number: 39 [http://wals.info], Constenla feature number: 17 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-stable-content,IC
+ICU1,Is there a voiceless lateral fricative phoneme (/4 /)?,"Corresponds to WALS feature number: 8 [http://wals.info], Constenla feature number: 71 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU10,Is nominal plural marking obligatory?,"Corresponds to WALS feature number: 34 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU11,Are nouns denoting humans marked for plural?,"Corresponds to WALS feature number: 34 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU12,Are nouns denoting animates marked for plural?,"Corresponds to WALS feature number: 34 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU13,Are nouns denoting inanimates marked for plural?,"Corresponds to WALS feature number: 34 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU14,Is an associative or collective plural distinguished from the additive plural?,"Corresponds to WALS feature number: 36 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU15,Is plurality in independent pronouns expressed with unanalyzable person-number stems?,"Corresponds to WALS feature number: 35 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU16,Is plurality in independent pronouns expressed with a stem and a nominal plural affix?,"Corresponds to WALS feature number: 35 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU17,Is plurality in independent pronouns expressed with a stem and a pronominal plural affix?,"Corresponds to WALS feature number: 35 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU18,Do second person pronouns encode a politeness distinction?,"Corresponds to WALS feature number: 45 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU19,Are pronominal subjects obligatory pronouns in subject position?,"Corresponds to WALS feature number: 101 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU2,Is there a voiced lateral approximant (/1/)?,"Corresponds to WALS feature number: 8 [http://wals.info], Constenla feature number: 77 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU20,Are pronominal subjects verbal affixes?,"Corresponds to WALS feature number: 101 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU21,Are pronominal subjects clitics on a variable host?,"Corresponds to WALS feature number: 101 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU22,Is the indefinite article the same as 'one'?,"Corresponds to WALS feature number: 38 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU23,Is the indefinite article distinct from 'one'?,"Corresponds to WALS feature number: 38 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU24,Do demonstratives indicate a 2-way contrast?,"Corresponds to WALS feature number: 41 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU25,Do demonstratives indicate a 3 (or more)-way contrast?,"Corresponds to WALS feature number: 41 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU26,Is the coding of comitatives and instrumentals identical?,"Corresponds to WALS feature number: 52 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU27,Are nominal and verbal conjunction expressed with the same marker?,"Corresponds to WALS feature number: 64 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU28,Is there inflectional marking of a future/non-future distinction?,"Corresponds to WALS feature number: 67 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU29,Does the language mark a perfective/imperfective distinction?,"Corresponds to WALS feature number: 65 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU3,Is there a simple lateral vibrant phoneme /l/?,"Corresponds to WALS feature number: 8 [http://wals.info], Constenla feature number: 80 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU30,Does the language mark the perfect?,"Corresponds to WALS feature number: 68 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU31,Does the perfect marker come from 'finish' or 'already'?,"Corresponds to WALS feature number: 68 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU32,Is there a morphologically dedicated second singular as well as second plural imperative?,"Corresponds to WALS feature number: 70 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU33,Is there a morphologically dedicated second person imperative that does not distinguish between singular and plural?,"Corresponds to WALS feature number: 70 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU34,Is the prohibitive expressed with a special negative marker (not found in declaratives)?,"Corresponds to WALS feature number: 71 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU35,Is the prohibitive expressed with a special imperative (not the normal 2S imperative)?,"Corresponds to WALS feature number: 71 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU36,Are evidentials marked on the verb as an affix or clitic?,"Corresponds to WALS feature number: 78 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU37,Are evidentials marked with a separate particle?,"Corresponds to WALS feature number: 78 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU38,Is a polar question indicated by a question particle?,"Corresponds to WALS feature number: 116 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU39,Is a polar question indicated by verbal morphology?,"Corresponds to WALS feature number: 116 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU4,Is there definite marking distinct from demonstratives?,"Corresponds to WALS feature number: 37 [http://wals.info], Constenla feature number: 42 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU40,Does the polar question indicator come at the beginning of the sentence?,"Corresponds to WALS feature number: 92 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU41,Does the polar question indicator come at the end of the sentence?,"Corresponds to WALS feature number: 92 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU42,Is clausal negation in declarative sentences signaled with a negative affix?,"Corresponds to WALS feature number: 112 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU43,Is clausal negation in declarative sentences signaled with a negative particle or word?,"Corresponds to WALS feature number: 112 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU44,Is clausal negation in declarative sentences signaled with a negative auxiliary verb?,"Corresponds to WALS feature number: 112 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU45,"Can the structure of the negative be identical to the structure of the affirmative, except for the presence of the negative marker(s)?","Corresponds to WALS feature number: 113 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU46,Are third person pronouns and demonstratives related to demonstratives?,"Corresponds to WALS feature number: 43 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU5,Is there inflection for indicating the (grammatical) person on intransitive verbs?,"Corresponds to WALS feature number: 102 [http://wals.info], Constenla feature number: 34 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU6,Is there inflection for indicating the (grammatical) person of the agent on transitive verbs?,"Corresponds to WALS feature number: 102 [http://wals.info], Constenla feature number: 35 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU7,Is there inflection for indicating the (grammatical) person of the object on the transitive verb?,"Corresponds to WALS feature number: 102 [http://wals.info], Constenla feature number: 36 [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-content,IC
+ICU8,Is there zero realization of at least some third person singular S forms?,"Corresponds to WALS feature number: 103 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+ICU9,Is there zero realization of at least some third person plural S forms?,"Corresponds to WALS feature number: 103 [http://wals.info], Constenla feature number: na [Constenla Umaña, Adolfo. (1991) Las lenguas del área intermedia: introducción a su estudio areal. San José: Universidad de Costa Rica.]",IC-unstable-template,IC
+NP1,What is the pragmatically unmarked word order for an intransitive clause?,most frequent word order in declarative sentences (main clause) with argument expressed by nominal NPs,NP-Word order (main clause),NP
+NP10,Is nominalization the main strategy for attributive (relative) clause formation?,e.g. 'We see the dog that usually bites'='We see the usually biting dog',NP-Nominalization,NP
+NP1010,"Can any temporal or aspectual distinctions, restricted to NP, be marked on the head noun?",e.g. [it is my house-PST] = 'it is my former house',NP-Nominal TAM,NP
+NP1011,Can 'past' be marked? [NP1011],,NP-Nominal TAM,NP
+NP1012,Can 'future' be marked? [NP1012],,NP-Nominal TAM,NP
+NP1013,Can 'remote past' be marked?,,NP-Nominal TAM,NP
+NP1014,Are tense markers which occur on nouns morphologically different from the tense markers on verbs in that language? [NP1014],,NP-Nominal TAM,NP
+NP1015,Is the use of nominal temporal markers semantically limited to certain nouns? [NP1015],"nouns denoting non-kin relationships (e.g. wife, girlfriend) or occupations (e.g. teacher).",NP-Nominal TAM,NP
+NP1020,Can temporal or aspectual distinctions with a propositional scope be marked on the head noun?,e.g. [it is my house-PST] = 'it was my house',NP-Nominal TAM,NP
+NP1021,Can 'past' be marked? [NP1021],,NP-Nominal TAM,NP
+NP1022,Can 'future' be marked? [NP1022],,NP-Nominal TAM,NP
+NP1023,Are tense markers which occur on nouns morphologically different from the tense markers on verbs in that language? [NP1023],,NP-Nominal TAM,NP
+NP1024,Is the use of nominal temporal markers semantically limited to certain nouns? [NP1024],"nouns denoting non-kin relationships (e.g. wife, girlfriend) or occupations (e.g. teacher).",NP-Nominal TAM,NP
+NP11,Is nominalization the main strategy for adverbial clause formation?,"e.g. 'When I arrived in Q, I saw a friend', or 'Because my brother came, we gave a big party'.",NP-Nominalization,NP
+NP110,What is the most frequent order of demonstrative and noun?,,NP-Word order (Noun Phrase),NP
+NP12,Is nominalization the main strategy for complement clause formation?,e.g. 'We know that he drinks too much'= 'We know [his drinking too much]',NP-Nominalization,NP
+NP120,What is the most frequent order of numeral and noun?,,NP-Word order (Noun Phrase),NP
+NP13,In what way are indefinite pronouns realized?,,NP-Indefinite pronouns,NP
+NP130,What is the most frequent order of possessor and possessed?,(pos-or realized by full NP),NP-Word order (Noun Phrase),NP
+NP140,What is the most frequent order of property word (adjective) and noun?,,NP-Word order (Noun Phrase),NP
+NP150,What is the most frequent order of relative clause and noun?,,NP-Word order (Noun Phrase),NP
+NP160,What is the most frequent order of adjective and degree word?,,NP-Word order (Noun Phrase),NP
+NP2,What is the pragmatically unmarked word order for a transitive clause?,most frequent word order in declarative sentences (main clause) with arguments expressed by nominal NPs,NP-Word order (main clause),NP
+NP210,Is there agreement between adjective (property word) and the noun in the NP?,,NP-Agreement within the NP,NP
+NP211,Is there agreement in NUMBER between adjective and noun?,,NP-Agreement within the NP,NP
+NP212,Is there agreement in GENDER between adjective and noun?,,NP-Agreement within the NP,NP
+NP213,Is there agreement in PHYSICAL PROPERTIES between adjective and noun?,,NP-Agreement within the NP,NP
+NP220,Is there agreement between numeral and the noun in the NP?,,NP-Agreement within the NP,NP
+NP221,Is there agreement in NUMBER between numeral and noun?,,NP-Agreement within the NP,NP
+NP222,Is there agreement in GENDER between numeral and noun?,,NP-Agreement within the NP,NP
+NP223,Is there agreement in PHYSICAL PROPERTIES between numeral and noun?,,NP-Agreement within the NP,NP
+NP230,Is there agreement between demonstrative/determiner and the noun in the NP?,,NP-Agreement within the NP,NP
+NP231,Is there agreement in NUMBER between demonstrative and noun?,,NP-Agreement within the NP,NP
+NP232,Is there agreement in GENDER between demonstrative and noun?,,NP-Agreement within the NP,NP
+NP233,Is there agreement in PHYSICAL PROPERTIES between demonstrative and noun?,,NP-Agreement within the NP,NP
+NP301,Are there indefinite articles in use?,"“A morpheme is considered here to be an indefinite article if it accompanies a noun and signals that the noun phrase is pragmatically indefinite in the sense that it denotes something not known to the hearer” (Dryer, WALS, Ch.37)","NP-Articles, demonstratives",NP
+NP302,Are there definite articles in use?,"A definite article is defined as “a morpheme which accompanies nouns and which codes definiteness or specificity” (Dryer, WALS, Ch.38)","NP-Articles, demonstratives",NP
+NP303,Are third person pronouns and demonstratives related?,derivational relationship is meant,"NP-Articles, demonstratives",NP
+NP304,What system of demonstratives is present in the language? (distance-oriented system vs. person-oriented system),"A language is considered to have a distance-oriented system (DOS), if the middle term “refers to a location in medial distance relative to a deictic center”. In languages with a person-oriented system (POS), the middle term “denotes a referent close to the hearer” (cf. Diessel 1999:39).","NP-Articles, demonstratives",NP
+NP305,How many distance contrasts do adnominal demonstratives encode?,,"NP-Articles, demonstratives",NP
+NP306,Can adnominal demonstratives encode visibility?,"encoded, not implied","NP-Articles, demonstratives",NP
+NP307,Can adnominal demonstratives encode altitude?,e.g. below/lower S,"NP-Articles, demonstratives",NP
+NP308,Can adnominal demonstratives encode position of the referent in space or posture?,"e.g. seated, standing, hanging","NP-Articles, demonstratives",NP
+NP309,Can adnominal demonstratives encode movement?,"e.g. moving towards S, away from S","NP-Articles, demonstratives",NP
+NP310,Can adnominal demonstratives encode animacy?,,"NP-Articles, demonstratives",NP
+NP311,Can adnominal demonstratives encode gender?,,"NP-Articles, demonstratives",NP
+NP312,Can adnominal demonstratives encode number?,,"NP-Articles, demonstratives",NP
+NP313,Can adnominal demonstratives encode physical properties of the referent?,"e.g. shape, size, material, consistency","NP-Articles, demonstratives",NP
+NP314,Do adnominal demonstratives roots require further derivation?,,"NP-Articles, demonstratives",NP
+NP315,Do demonstratives receive different inflectional features when used pronominally or adnominally?,,"NP-Articles, demonstratives",NP
+NP316,What is the morphological composition of adverbial demonstratives (as compared to adnominal dem.)?,,"NP-Articles, demonstratives",NP
+NP317,How many distance contrasts do adverbial demonstratives encode?,,"NP-Articles, demonstratives",NP
+NP4,Is there a copula for predicate nouns? (only present tense clauses are taken into account),Answer as 'yes' when the use of copula is obligatory. Only present tense clauses are taken into account,NP-Copula,NP
+NP401,"In possessive constructions with a nominal possessor, is the POSSESSOR usually marked? (state most frequent construction; NB: if marking depends on alienability, state marking of possessor in ALIENABLE constructions)","Terminology: pos.marker = possessive marker which is a free or bound form which indicates possession, and which is morphosyntactically associated with a noun denoting possessor. Pers.pos.pref/suf = personal possessive prefix or suffix, is an affix which encodes person, number and/or gender of a possessor and which appears on the possessed noun.  NB: word order of possessor vs. possessed is symbolic, and is specified in a separate section!",NP-Attributive possession,NP
+NP402,"In possessive constructions with a nominal possessor, is the POSSESSED noun usually marked? (state most frequent construction; NB: if marking depends on alienability, state marking of possessor in ALIENABLE constructions)","Terminology: pos.marker = possessive marker which is a free or bound form which indicates possession, and which is morphosyntactically associated with a noun denoting possessor. Pers.pos.pref/suf = personal possessive prefix or suffix is an affix which encodes person, number and/or gender of a possessor and which appears on the possessed noun. Possessed = refers to a free or bound form which indicates that an item is possessed and morphosyntactically associated with a noun denoting the possessed entity. NB: word order of possessor vs. possessed is symbolic, and is specified in a separate section!",NP-Attributive possession,NP
+NP403,"In possessive constructions with a pronominal possessor, is the POSSESSOR usually marked? (state most frequent construction; NB: if marking depends on alienability, state marking of possessor in ALIENABLE constructions)","Terminology: pos.marker = possessive marker which is a free or bound form which indicates possession. NB: word order of possessor vs. possessed is symbolic, and is specified in a separate section!",NP-Attributive possession,NP
+NP404,"In possessive constructions with a pronominal possessor, is the POSSESSED noun usually marked? (state most frequent construction; NB: if marking depends on alienability, state marking of possessor in ALIENABLE constructions)","Terminology: pers.pos.pref/suf = personal possessive prefix or suffix is an affix which encodes person, number and/or gender of a possessor and which appears on the possessed noun. Possessed = refers to a free or bound form which indicates that an item is possessed and morphosyntactically associated with a noun denoting the possessed entity. NB: word order of possessor vs. possessed is symbolic, and is specified in a separate section!",NP-Attributive possession,NP
+NP405,Are there nouns denoting obligatorily possessed items?,,NP-Attributive possession,NP
+NP406,Do possessive constructions with optionally possessed nouns differ from those with obligatorily possessed nouns? (= is alienable and inalienable possession formally distinguished?),within adnominal modification!,NP-Attributive possession,NP
+NP407,"Is a word/morpheme meaning 'pet' (or similar) required in possessive constructions involving nouns which denote (domesticated) animals, and/or food?",,NP-Attributive possession,NP
+NP408,Does the language have a separate form for 3rd person possessive reflexive? Cf. example,In this way the language distinguishes: 'the mani brings hisi children to school' versus  'the mani brings hisj children to school' (bound versus free pronouns),NP-Attributive possession,NP
+NP409,"Can pronominal possessors (pronoun, affix, clitic) be related to main tense verbal person markers (pronoun, affix, clitic)",,NP-Attributive possession,NP
+NP5,Is there a copula for predicate locative phrases? (only present tense clauses are taken into account),Answer as 'yes' when the use of copula is obligatory. Only present tense clauses are taken into account,NP-Copula,NP
+NP501,Is there a class of synchronically underived adjectival elements (lexemes)?,,NP-Adjectives/property words,NP
+NP502,Which word class do (the majority of) words denoting DIMENSION belong to?,"big', 'small', 'long', 'deep', etc.",NP-Adjectives/property words,NP
+NP503,Which word class do (the majority of) words denoting AGE belong to?,"new', 'young', old', etc.",NP-Adjectives/property words,NP
+NP504,Which word class do (the majority of) words denoting VALUE belong to?,"good', 'bad', 'strange', etc.",NP-Adjectives/property words,NP
+NP505,Which word class do (the majority of) words denoting COLOR belong to?,"black', 'white', 'red', etc.",NP-Adjectives/property words,NP
+NP506,Which word class do (the majority of) words denoting PHYSICAL PROPERTY belong to?,"hard', 'soft', 'heavy', 'wet', strong', 'clean', 'hot, etc.",NP-Adjectives/property words,NP
+NP507,Which word class do (the majority of) words denoting HUMAN PROPENSITY belong to?,"jealous', 'happy', 'kind', etc.",NP-Adjectives/property words,NP
+NP508,Which word class do (the majority of) words denoting SPEED belong to?,"fast', 'quick', 'slow', etc.",NP-Adjectives/property words,NP
+NP6,Is there a copula for predicate adjectives? (only present tense clauses are taken into account),Answer as 'yes' when the use of copula is obligatory. Only present tense clauses are taken into account,NP-Copula,NP
+NP610,Which class do native numerals belong to?,"By 'native numerals' are meant numerals not borrowed from Spanish or Portuguese, or other dominant language.",NP-Numerals,NP
+NP7,Is there an inclusive/exclusive distinction in personal pronouns?,,NP-Free personal pronouns,NP
+NP710,Do nouns have a morphologically marked singular vs. plural distinction?,"Indicate the primary method of plurality coding. By 'primary' a method is meant which is used for by at least twice as many nouns as any other method (cf. Dryer, WALS, feature 33)",NP-Grammatical expression of quantity (marked on the noun),NP
+NP711,What is the occurrence of nominal plural? (in the NP without a modifying numeral),,NP-Grammatical expression of quantity (marked on the noun),NP
+NP720,Do nouns have a morphologically marked dual?,(OK: dual seems to be unusual in Amazonia?),NP-Grammatical expression of quantity (marked on the noun),NP
+NP730,Do nouns have a morphologically marked paucal?,,NP-Grammatical expression of quantity (marked on the noun),NP
+NP740,Is there a morphologically marked collective marker?,e.g. bird-COL = 'all types of birds',NP-Grammatical expression of quantity (marked on the noun),NP
+NP8,Is there a gender distinction in independent personal pronouns?,Add note in the comment secion if only animcay is encoded and not sex/gender,NP-Free personal pronouns,NP
+NP810,How many gender distinctions are realized within the NP?,By genders is meant a system of OBLIGATORILY dividing all nouns into classes.,NP-Noun categorization device,NP
+NP820,Are there any (grammaticalized) sex-markers? (realized on the noun itself),By sex-marker a marker is understood which optionally occurs on a noun to specify or focus on the gender of its referent. Therefore not obligatory as gender system.,NP-Noun categorization device,NP
+NP830,Are there classifiers?,"By a classifier is meant a free or bound morpheme which is a noun categorisation device, the choice of which is determined by lexical selection.",NP-Noun categorization device,NP
+NP831,Are there classifiers used with numerals?,"e.g. [three-CLF:HUM teacher] 'three teachers'. By a classifying morpheme is meant a free or bound morpheme which is a noun categorisation device, the choice of which is determined by lexical selection.",NP-Noun categorization device,NP
+NP832,Are there classifiers used with nouns?,"e.g. [snake CLF:AN] 'snake'. By a classifying morpheme is meant a free or bound morpheme which is a noun categorisation device, the choice of which is determined by lexical selection.",NP-Noun categorization device,NP
+NP833,Are there classifiers used with interrogative pronouns?,,NP-Noun categorization device,NP
+NP834,Are there classifiers used with descriptive modifiers?,,NP-Noun categorization device,NP
+NP835,Are there classifiers used in possessive constructions?,"e.g. [1SG-CLF:LIQUID honey] 'my honey'. By a classifying morpheme is meant a free or bound morpheme which is a noun categorisation device, the choice of which is determined by lexical selection. Indicate in the comments field whether the genitive classifiers categorize (a) the possessed noun; (b) the possessor; (c) the relation between possessor and possessed.",NP-Noun categorization device,NP
+NP836,Are there classifiers used with deictic elements?,"e.g. with demonstratives, articles. By a classifying morpheme is meant a free or bound morpheme which is a noun categorisation device, the choice of which is determined by lexical selection.",NP-Noun categorization device,NP
+NP837,Are there classifiers used with verbal predicates?,,NP-Noun categorization device,NP
+NP838,Do classifiers have a derivational function?,,NP-Noun categorization device,NP
+NP839,Do classifiers have an anaphoric function?,,NP-Noun categorization device,NP
+NP9,Is there a number distinction in 3rd person pronouns?,,NP-Free personal pronouns,NP
+NP901,What kind of adposition type is most dominant?,expressing spatial relations,NP-Adpositions,NP
+TAME1-1,Is present tense marked morpho-syntactically?,,Tense-Aspect-Mood-Evidentiality,TAME
+TAME1-2,Is future tense marked morpho-syntactically?,future expressed by tense rather than mood or aspect; prediction,Tense-Aspect-Mood-Evidentiality,TAME
+TAME1-2-1,"In terms of remoteness, how many future tenses are marked morpho-syntactically?","e.g. immediate, remote, far, mythical etc.",Tense-Aspect-Mood-Evidentiality,TAME
+TAME1-3,Is past tense marked morpho-syntactically?,i.e. a past marker of any remoteness value,Tense-Aspect-Mood-Evidentiality,TAME
+TAME1-3-1,"In terms of remoteness, how many past tenses are marked morpho-syntactically?","e.g. recent, remote, far etc.",Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-1,Is realis mood marked morpho-syntactically?,,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-10,Is there a potential modal marker expressing a potential reality (but not necessarily excluding past reference)?,,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-11,Is certainty marked morpho-syntactically?,opposite of dubitative,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-12,Is dubitative marked morpho-syntactically?,"uncertainty, doubt, speculation (opposite of certainty)",Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-13,Is frustrative marked morpho-syntactically?,i.e. an event that has not come true  and/or an event that has not brought satisfying results,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-14,Is purposive marked morpho-syntactically?,in order to...,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-15,Is desiderative marked morpho-syntactically?,The wish or desire to do sth,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-2,Is irrealis mood marked morpho-syntactically?,,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-3,Is imperative mood marked morpho-syntactically with one marker for more than one person and number?,one marker for command that can apply to all persons and number or only a selection of those (this does not exclude the possibility that there are additional ways to mark imperative),Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-4,Is imperative for 1st person only marked morpho-syntactically?,"sometimes called hortatory, exhortative, cohortatory (Let us/me)",Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-5,Is imperative for 2nd person only marked morpho-syntactically?,one marker applying specifically for commands adressing a 2nd person (Go!/Sing!),Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-6,Is imperative for 3rd person only marked morpho-syntactically?,"command adressing the 3rd person, sometimes called jussive (Let him/them)",Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-7,Is prohibitive marked morpho-syntactically?,a negative command (Do not...),Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-8,Is a polite/ mild/ weak imperative marked morpho-syntactically?,,Tense-Aspect-Mood-Evidentiality,TAME
+TAME2-9,Is intentional marked morpho-syntactically?,"intention, planning",Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-1,Is perfective marked morpho-syntactically?,a situation is seen as a single whole,Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-2,Is imperfective marked morpho-syntactically?,"a situation is seen from within, concerning its internal temporal structure",Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-3,Is anterior marked morpho-syntactically?,expressing continuous present relevance of a past situation,Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-4,Is an habitual action marked morpho-syntactically?,"a situation happening over an extended period of time again and again; a habit, a custom etc.",Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-5,Is a continuative action marked morpho-syntactically?,an action ongoing at some point of reference; including progressive,Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-6,Is an iterative action marked morpho-syntactically? (single and/or multiple repetition)?,,Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-7,Is a completive action marked morpho-syntactically?,i.e. focus is on the completeness of a situation,Tense-Aspect-Mood-Evidentiality,TAME
+TAME3-8,Is an incompletive action marked morpho-syntactically?,"i.e. focussing on a situation that is unfinished, ongoing/in opposition to the completive",Tense-Aspect-Mood-Evidentiality,TAME
+TAME4-1,Is firsthand information marked morpho-syntactically?,i.e. sth directly experienced through the senses,Tense-Aspect-Mood-Evidentiality,TAME
+TAME4-2,Is non-firsthand information marked morpho-syntactically?,one marker for everything not directly witnessed,Tense-Aspect-Mood-Evidentiality,TAME
+TAME4-3,Is secondhand information marked morpho-syntactically (may include third-hand information)?,"i.e. reportative, includes hearsay",Tense-Aspect-Mood-Evidentiality,TAME
+TAME4-4,Is quotative marked morpho-syntactically?,i.e. a report with exact indication of who said it,Tense-Aspect-Mood-Evidentiality,TAME
+TAME4-5,Is visual evidentiality marked morpho-syntactically?,sth seen only,Tense-Aspect-Mood-Evidentiality,TAME
+TAME4-6,Is inferred evidentiality marked morpho-syntactically?,conclusion drawn on the basis of sensory input,Tense-Aspect-Mood-Evidentiality,TAME
+TAME4-7,Is assumed evidentiality marked morpho-syntactically?,conclusion drawn on the basis of logical conclusion and general knowledge,Tense-Aspect-Mood-Evidentiality,TAME

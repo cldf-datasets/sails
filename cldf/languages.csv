@@ -1,6 +1,6 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
 NOCODE_Apolista,Apolista,,-14.83,-68.66,apol1242,
-NOCODE_Maipure,Maipure,,4.8,-67.5,maip1246,
+NOCODE_Maipure,Maipure,,4.8,-67.5,maip1247,
 aca,Achagua,,4.38649,-72.2005,acha1250,aca
 acu,Achuar-Shiwiar,,-2.826455,-77.26405,achu1248,acu
 agr,Aguaruna,,-5.30044,-77.92179,agua1253,agr
@@ -56,7 +56,7 @@ gym,Ngäbere,,8.825105,-82.391125,ngab1239,gym
 hix,Hixkaryána,,-0.16265,-58.80153,hixk1239,hix
 ign,Ignaciano,,-15.11882,-65.39934,igna1246,ign
 inb,Inga,,1.00313,-76.86062,inga1252,inb
-inp,Iñapari,,-12.46525,-69.30827,inap1243,inp
+inp,Iñapari,,-12.46525,-69.30827,inap1242,inp
 iqu,Iquito,,-3.31233,-73.97046,iqui1243,iqu
 ito,Itonama,,-12.80431,-64.35748,iton1250,ito
 jaa,Jamamadí,,-7.62223,-66.56619,jama1261,jaa

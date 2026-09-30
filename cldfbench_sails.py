@@ -8,29 +8,9 @@ from cldfbench import CLDFSpec, Metadata
 from pycldf import Source
 
 
-class MetadataWithTravis(Metadata):
-    def markdown(self):
-        lines, title_found = [], False
-        for line in super().markdown().split('\n'):
-            lines.append(line)
-            if line.startswith('# ') and not title_found:
-                title_found = True
-                lines.extend([
-                    '',
-                    "[![Build Status](https://travis-ci.org/cldf-datasets/sails.svg?branch=master)]"
-                    "(https://travis-ci.org/cldf-datasets/sails)"
-                ])
-        lines.extend([
-            '',
-            pathlib.Path(__file__).parent.joinpath('NOTES.md').read_text(encoding='utf8'),
-        ])
-        return '\n'.join(lines)
-
-
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "sails"
-    metadata_cls = MetadataWithTravis
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(module='StructureDataset', dir=self.cldf_dir)
@@ -65,7 +45,7 @@ class Dataset(BaseDataset):
 
         args.writer.cldf.add_sources(*list(self.itersources(pk2id)))
         for row in self.read('designer').values():
-            id_ = re.search('\(([A-Z]+)\)', row['domain']).groups()[0]
+            id_ = re.search(r'\(([A-Z]+)\)', row['domain']).groups()[0]
             if id_ == 'SUB':
                 continue
             args.writer.objects['contributions.csv'].append({
@@ -153,25 +133,15 @@ class Dataset(BaseDataset):
         cldf.add_component(
             'ParameterTable',
             'Domain',
-            'Contribution_ID',
+            {'name': 'Contribution_ID', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#contributionReference'},
         )
         cldf.add_component(
             'CodeTable',
         )
         cldf.add_component('LanguageTable')
-        cldf.add_table(
-            'contributions.csv',
-            'ID',
-            'Name',
+        cldf.add_component(
+            'ContributionTable',
             'Orientation',
-            {
-                'name': 'Contributor',
-                'propertyUrl': 'http://purl.org/dc/terms/creator',
-            },
-            {
-                'name': 'Citation',
-                'propertyUrl': 'http://purl.org/dc/terms/bibliographicCitation',
-            },
             {
                 'name': 'Related_Resource',
                 'propertyUrl': 'http://purl.org/dc/elements/1.1/relation',
@@ -181,4 +151,5 @@ class Dataset(BaseDataset):
             },
         )
         cldf.add_columns('ValueTable', 'Contributor', 'Reference', 'Example_Reference')
-        cldf.add_foreign_key('ParameterTable', 'Contribution_ID', 'contributions.csv', 'ID')
+        cldf.remove_columns('ParameterTable', 'ColumnSpec')
+

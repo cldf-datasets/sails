@@ -1,0 +1,13 @@
+{
+    "title": "South American Indigenous Language Structures (SAILS)",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Muysken, Pieter and Harald Hammarstr\u00f6m and Olga Krasnoukhova and Neele M\u00fcller and Joshua Birchall and Simon van de Kerke and Loretta O&#x27;Connor and Swintha Danielsen and Rik van Gijn and George Saad. 2014. South American Indigenous Language Structures (SAILS). Jena: Max Planck Institute for the Science of Human History. (Available at https://sails.clld.org)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-ND-2.0"
+    }
+}
